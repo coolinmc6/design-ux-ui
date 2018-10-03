@@ -1,3 +1,5 @@
+<a name='top'></a>
+
 # Introduction to User Experience
 
 
@@ -48,6 +50,8 @@
 	+ Understand a bit about human behavior
 	+ Apply common sense
 
+[back to top](#top)
+
 ### L2: The UX Process
 
 - How to Make UX Easy
@@ -83,6 +87,8 @@
 	- How does emotion play a role?
 * Common Sense
 
+[back to top](#top)
+
 ### L3: Components of UX
 
 - Good and Bad UX
@@ -112,16 +118,24 @@
 		+ How would you make it better if it was a bad design?
 
 
+[back to top](#top)
+
 ## Part 2: UX Research Overview - Part 1
 
+[back to top](#top)
 
 ## Part 3: UX Research Overview - Part 2
 
+[back to top](#top)
+
 ## Part 4: UX Design Overview - Part 1
+
+[back to top](#top)
 
 ## Part 5: UX Design Overview - Part 2
 
 
+[back to top](#top)
 
 
 
