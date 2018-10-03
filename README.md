@@ -6,7 +6,7 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 |:---:|:---:|
 |Understanding User Needs||
 |Principles of Designing for Humans||
-|[Introduction to User Experience](https://www.edx.org/course/introduction-to-user-experience)||
+|[Introduction to User Experience](https://www.edx.org/course/introduction-to-user-experience)|[Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md)|
 |Evaluating Designs with Users||
 |UX (User Experience) Capstone||
 |UX Design: From Concept to Wireframe||
