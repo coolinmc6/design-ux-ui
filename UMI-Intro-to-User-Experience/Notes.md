@@ -12,10 +12,13 @@
 	+ [Lecture 7: User Testing, Part 3](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l7-user-testing-part-3)
 - [Part 3: UX Research Overview - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-3-ux-research-overview---part-2)
 	+ [Script for Micro-Usability Test Plan](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#script-for-micro-usability-test-plan)
-
 - [Part 4: UX Design Overview - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-4-ux-design-overview---part-1)
-
+	+ [Lecture 8: UX Design Overview](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-8-ux-design-overview)
+	+ [Lecture 9: Prototypes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-9-prototypes)
+	+ [Lecture 10: Sketching](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-10-sketching)
 - [Part 5: UX Design Overview - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-5-ux-design-overview---part-2)
+	+ [Lecture 11: A Brief Incomplete History of UX](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-11-a-brief-incomplete-history-of-ux)
+	+ [Lecture 12: Course Summary](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-12-course-summary)
 
 ## Part 1: What is UX? What are UX Research and Design?
 
