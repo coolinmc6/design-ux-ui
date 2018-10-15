@@ -1,7 +1,15 @@
 <a name='top'></a>
 # Introduction to User Experience
 
+[Part 1: What is UX? What are UX Research and Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-1-what-is-ux-what-are-ux-research-and-design)
 
+[Part 2: UX Research Overview - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-2-ux-research-overview---part-1)
+
+[Part 3: UX Research Overview - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-3-ux-research-overview---part-2)
+
+[Part 4: UX Design Overview - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-4-ux-design-overview---part-1)
+
+[Part 5: UX Design Overview - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-5-ux-design-overview---part-2)
 
 ## Part 1: What is UX? What are UX Research and Design?
 
