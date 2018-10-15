@@ -1,0 +1,458 @@
+Hi, I'm here today with Matt Martin, experienced architect at Ithaka.
+And we're gonna talk about user experience and the user experience field,
+with a focus on user experience design, and
+what designers contribute to the field of user experience.
+So, welcome, and thank you very much for being here.
+>> Thank you.
+>> So, tell me a little bit about what you're doing at Ithaca right now.
+>> Okay.
+So, I work on a team with software engineers, quality insurance engineers,
+a product manager, and a visual designer, and then myself.
+And what I try to do is I setup enough strategy, enough design work
+collaboratively with my team, to kinda get that work ready for development.
+So, I would say I spent half of my days in meetings, and
+half of my days doing design, and it's very collaborative.
+So, there is gonna be some times where I'm heads down work doing some designs, or
+doing some research.
+But then there'll be a lot of times where I'm brainstorming strategy with
+my product manager, or working with a user
+researcher to make sure that we're gonna set up the right type of user testing.
+And then my visual designer, who I collaborate a lot with, is in New York.
+So, we'll sometimes do some screen sharing,
+where we'll collaborate on a design.
+Or I'll just start sketching on a whiteboard, and I'll take pictures of it,
+and send it to her.
+And say okay, I just created this really quickly.
+Can you bring back something to me?
+And then we'll kind of collaborate that way.
+So, it's like, we have these pods of teams that, like I said, are blinded.
+And then some other times, I'll meet with whole UX department.
+The other designers, to find out, hey, what are you working on?
+And how is it going to influence what I'm doing?
+Sometimes I'm doing parts of the site.
+Or some of our products that do touch each other.
+And sometimes, I'm kinda on my own.
+Or it's a product that's not touching other things.
+So.
+>> Could you give us an example of maybe a project that you've worked on,
+and try and take us through how it started, and how it progressed through
+the different stages until it became however it ended up?
+>> Okay.
+So, we needed to do a redesign of the strategy in research, arm of ethical.
+So, they had a website that was aging but
+not only that, their business model and some of the programs are changed.
+So, we needed to do a refresh on the website to kind represent
+that new program that they were trying to focus on, and also,
+to do a better job of having that website reflect their business objectives.
+So. >> Could you maybe just say real
+quick what the strategy and research?
+>> Yes. >> The strategy and research.
+Well, who are the users, and what are they trying to do with this website?
+>> So primarily, what the strategy and
+research arm does is they work with libraries and higher education,
+and they deal with the administrators and librarians to basically get
+technology and libraries kinda ready for the future.
+>> Okay. >> How does technology influence that?
+And one of their programs that they started to promote, and
+that started new just last year is called Educational Transformation, which is how
+about how is education being transformed, and how can institutions go along with it?
+So they do a lot of consulting.
+>> Okay.
+>> They write a lot of papers, case studies, reports, issue briefs.
+And librarians try to get all of that research, cuz they give it away for free.
+>> Okay.
+In the hopes to sell some of their products, they do survey,
+they do site consulting and stuff like that.
+>> I see.
+>> So, what was happening was is the website was, had a lot of information
+there, and have all reports, but wasn't as easy to go from one report to another, and
+there wasn't really a way for the products and the reports to kinda intermingle.
+>> Okay. >> And so,
+it was our goal to figure out, okay, where is the business going?
+How is the site working and not working?
+And how can we make it work better?
+So, what I did was is I interviewed all the directors, and
+all the program directors, and the marketing directing there at the S+R,
+was what it was called- >> Okay.
+>> Ithaka S+R.
+>> Okay.
+>> Strategy and research, and
+I did that with the user researcher, our product manager, and an engineer.
+>> Mm-hm.
+>> So, while we were doing that, we were taking notes.
+And trying to figure out, okay, so this is how they look at their business.
+This is how they look at their user.
+So, we had a pretty good idea of what to do next.
+And next was, let's find out what we're dealing with, and
+did the content inventory of the whole site.
+We started to look at the analytics of the site to find out how traffic was getting
+there, and what was happening, why they were there, and
+they where the users were leaving.
+>> Mm-hm.
+>> Next.
+I did a comparative analysis, so I'm looking at all the different
+competition that they have throughout the landscape.
+>> Mm-hm. >> Inside their industry and
+outside their industry, just to see how it happens,
+how the branding happens, how the interaction design works.
+So, what people are gonna expect when they go to the site.
+So that we're not doing anything that's too different, or something that we
+can make sure falls in people's expectations when visiting the site.
+So once we did all that, in kind of concurrently,
+we had the developers starting working on a framework.
+So, me and the designer can start thinking ahead, and
+we knew that we're gonna have to feed the developers the real full site.
+But in the meantime, we wanted to have them just develop a slice of the site.
+So, a working version of every single section, but
+it didn't go deep with just one kind of like layer.
+>> So this would be software, and you are thinking of just having the different
+components kinda of in place, so that as you're doing the design, you
+could actually have framework to sort of testing out and seeing how it will work.
+>> Exactly.
+That way there was a foundation there, we can see if things were working,
+and we could find out early on that hey, this really doesn't work.
+But what we did is, once we started developing,
+we could see that it could scale too.
+So, while the developers were doing that, I went back to the stakeholders and
+said okay, you have a lot of categories here.
+You don't have much consistency on topics in the way you organize your research.
+So, I set up a workshop to really work on their vocabulary in taxonomy,
+just the raw materials of the research.
+So that we could develop a good information architecture of the site and
+do positive search.
+That made sense not only to them, but to the people that they're reaching out to.
+>> Mm-hm.
+>> Once we did that taxonomy exercise,
+we didn't put it in the site until we did a card sorting task with actual users.
+>> Mm-hm.
+>> So, what that is we put it online, all these different topics and
+categories, and had actual librarians come to this program or
+site to organize how they saw those topics and categories.
+Once we had that data back, then we can tell developers okay, now we figured out
+how this is supposed to be chugged and categorize so they can start building it.
+In that way, it was scalable and we were able to make sure that
+throughout the the whole process, we're getting some input from our users.
+So, once we had that slice,
+we were able to start filling in the rest of the site.
+And we, one of the things, not only did we wanna get librarians and
+other visitors to download their reports, but we also wanted people to sign up so
+that they would get news of hey, the new report is coming out.
+So, we experimented with different placement of where that sign up would be,
+and once we found the best place for it.
+Based on a smaller set, then it's been released.
+Now we've gotten I think, they're,
+it's gone up at least 20% as far as the last time I checked.
+Because that was.
+>> The number of sign ups has gone up by 20% since the previous version.
+>> Exactly.
+Yep. So it has been a success, and
+it really shows just by moving something on a page can really have a huge affect on
+the design.
+And the sign up rate was amazing.
+>> Well let me ask you a couple more question about that.
+So, there were a lot of different activities happening at the same time.
+>> Yes. >> You had Software development happening.
+A number of different research activities.
+What kind of things were going on with trying to figure out.
+You know what the site was gonna look like, how things were gonna be laid out,
+what was connected to.
+What kind of things were you doing,
+in parallel to kind of work out the design of this Cybertough.
+>> So I'm trying to break down the navigation in it to two different.
+I guess categories, one was the persistent navigation which is what
+you usually see at the top of every page.
+It's the global navigation, the big buckets.
+But what I spent a lot of time on with the stakeholders,
+was the contextual navigation.
+How is each object related to one another?
+So an object could be an article,
+another object could be an event that they're hosting.
+And another object could be,
+the person that's either writing the paper, or putting on the event.
+So that way, I had all these modules that could be interrelated so
+that when you're on a page, and you're on an article,
+you know who wrote it, and if there's an event coming up.
+And they also can point to this article relates to this product that they had,
+or this kind of consulting practice that they do.
+So that way, no matter when you're on the site,
+you're always going to another related event or even another related article.
+So you're kinda, instead of just going there, grabbing a paper and leaving,
+I set it up so you could explore.
+So you don't have to go up to the main navigation as an escape hatch, or
+to do the exploration.
+It's more in context exploration if you will.
+So I spent a lot of time doing that, to make sure that people were staying on
+the site, and learning as much as they can and.
+Satisfying the user's needs of getting those papers.
+But also, trying to help the business objective of,
+hey let's get these people working with us and partnering with us.
+Does that make sense?
+>> It makes sense and so were you doing this through?
+I'm just trying to envision like how this happens, right?
+So are you sketching?
+Are you making mark ups and a graphics program,
+are you building interactive versions of it, and how are you working through this?
+Right, It's a complicated thing you're trying to do here,
+with this contextual navigation.
+So how do you kinda go from,
+I think this will be a cool idea to this is the right way to do it.
+>> Well, I got a big piece of foam core.
+>> Okay. >> And I got a bunch of sticky notes.
+And what I did was, and the reason I put it on foam core is, I wanted to work
+collaboratively with one of the developers to say, okay, this is what I'm thinking.
+And then I also wanted to work with a stakeholder that was living in,
+she was either in New York at the time or the Carolinas at the time.
+So what we did is we put one computer on the board, and
+we moved sticky notes around.
+Like I kind of seeded it and say, hey this is how I'm envisioning it.
+But since she's the marketing director, she's responsible for
+a lot of the content, a lot of the editorial work flow.
+All the research goes through her, and then gets populated on the site.
+So she really had,
+she was a subject matter expert on what's happening in the organization, so.
+And then I've got the developer there just watching and seeing this,
+because he's starting to estimate how much is this development time it's gonna be.
+The platform we're putting it on, I think we started with a WordPress site,
+wanted to make sure that was feasible.
+So that way, because it was sticky notes, it was never set in stone, and
+no one thought, it's in a spreadsheet, it's locked in no, it's not locked in.
+Let's do a collaborative exercise where we're moving sticky notes around.
+That was mobile, so I could move it to a different office,
+I could take a picture of it and send it to other people to kinda get.
+>> Mobile, because you could just take the foam core and.
+>> Yeah. Exactly.
+I can move it around and then, once I had those modules and
+objects kind of figured out.
+>> Mm-hm.
+>> I then went into a wire framing vector based OmniGraffle.
+>> Okay. >> And
+started laying out how these things would look on a page.
+But also how they would interact, and how they were sewn together.
+>> Mm-hm.
+>> And once I had that, I made it a clickable prototype.
+Not for users.
+I mean, that would've been great if we had that kind of resource and timing.
+But we felt we did a good enough job in the strategy phase.
+We felt this was good, was really just to show the stakeholders hey,
+this is how we're now envisioning your site.
+So they kinda had a preview, before we got into look and feel.
+Cuz at the same time, our visual designer was,
+hired a photographer to get some shots so that it wasn't stock photography.
+It was something that was more in line with their brand.
+Cuz she also wanted to kinda re-invision the brand.
+So she was trying to, she was thinking about different concepts of color and
+how that color would work on the site without taking.
+Taking too attention away from the articles.
+So kind of like, i'm doing the interaction design,
+while she's kinda doing the visual and emotional design at the same time.
+And so, and we're collaborating to say okay this is what i'm thinking here, and
+she's saying "okay this is what i'm thinking here.".
+And then we're presenting that you know, what was really great is In previous
+engagements, when I wasn't inside and I was at agencies.
+It was, like, we saw the client every once in a while.
+And we'd have these big deliverable dates.
+Where here, we said we want to meet with you at least every other week.
+>> Mm-hm. >> To show you our progress.
+We're never going to be.
+These are never done states.
+We're not having you sign off on it.
+>> Okay. >> We just
+want to show you what we're working on.
+>> Mm-hm. >> And have you collaborate with us.
+>> Mm-hm.
+And I felt that was a really successful way to do it but not,
+I think that's a best case scenario.
+You don't always have these high level directors of
+companies >> Right.
+>> that you can talk to twice a week.
+>> Right, right.
+>> Or I'm sorry, every other week.
+>> Right, right, right.
+So, but that's very interesting.
+So you're thinking very much about creating these artifacts that will,
+facilitate certain types of communication, right?
+>> Yes. >> Communication was a subject matter
+expert, trying to make sure that you get it right.
+Communication with the stakeholder to show progress, and
+also thinking about what kind of communication you wanna have.
+So it tells like you separate out conversations about the interaction
+design, from conversations about the look and feel, and the typography, and
+the specific images, and the colors and things like that.
+So that you can have these, kind of focused conversations.
+>> That's exactly right.
+I'd try to make sure that I wasn't painting us in any kind of corner,
+and allowing the stakeholders to have their say.
+>> Mm-hm. But at the same time,
+not having people get hung up on, you know,
+I don't really like the font or the colors that are happening here.
+And they're not paying attention to the interaction design or
+some of the content strategy.
+So we really did have to divorce certain things, and present certain kinda,
+slowly reveal things to people so we could get the right conversation, or
+the right kind of feedback.
+>> Mm-hm.
+So, and sometimes a sticky note, and some crude drawings are just enough.
+Just to set the direction.
+>> To keep it focused on that particular topic right there.
+and not get distracted by these other things.
+So it sounds like this story has a happy ending.
+You talked about the product that sounds like was released.
+You have some data that it's been successful in some ways,
+and so congratulations on that.
+>> Thank you.
+Yes.
+>> Excellent.
+So I know that before joining Ithaca, how long have you been at Ithaca?
+>> Three and a half years.
+>> About three and a half years.
+But I know from talking to you previously that
+You've done a bunch of other things as well.
+So I think it would be great to just hear about
+what your career has been like and how you got where you are right now.
+>> Okay, well I guess we can go back just before I went to graduate school.
+I was a photographer and I was in a research hospital.
+And we had a lab that was half chemical processes and
+half digital processes cuz this was the 1900s.
+So 1990s we were still doing a lot with film and chemicals.
+But I saw that the digital mediums and computers and especially with
+the beginning of the internet or the web photography was changing really fast.
+And it was becoming more digital.
+That's when I decided to go to graduate school for
+human computer interaction at the School for Information.
+So while I was there during the summer I got
+an internship at an agency actually doing what they called usability engineering,
+which was user research and doing design work.
+And I worked with visual designers and frontend developers.
+This was the year 2000.
+So during that time the dot com bubble burst.
+So the internship that I was hoping was gonna lead into full time employment
+was gone.
+So once I graduated from the School of Information I
+went to Wayne State University to become a digital librarian.
+So at my time at Wayne State it was a wonderful time.
+Because we had a grant called the 21st Century Librarian.
+So we had money to do special projects and fund graduate students to do the work.
+And some of that work was working with the Detroit News Photo Morgue.
+So we had images going back from the 1800s up until about 1980 for
+digitizing all of those images and associating metadata with those and
+then bringing them online for access.
+The other fun project was working for the Detroit Historical Museum and
+looking at their toy collection, primarily toys from the early 1900s that were
+wind-up toys and putting those online just to show people how they work.
+We actually got a lot of traffic from industrial designers that saw that and
+kinda used that as inspiration for their work.
+>> Interesting.
+>> While I was a digital librarian I wasn't really doing too much UX work.
+I was mainly working with professors or different libraries or
+different archives and my graduate students, which was a blast.
+But I also really liked to do design, user experienced design.
+So I did some freelance for some agencies.
+And then one day one of the agencies that I did work for
+offered me fulltime employment.
+So I started to go down that road.
+It was a very large agency.
+So it was cool because it was a print agency that was trying to figure out how
+to do digital.
+So I felt it was a cool kinda time of flux.
+But as things progressed I realized that I don't wanna be at a huge agency,
+especially an old-school agency.
+I wanna be at more of a startup feel.
+>> And an agency just to be clear is a company that does projects for
+external clients.
+So you might have a retailer one day and
+a manufacturer the next day and a taxi company the other day.
+And you're doing different, I'm making this up.
+But you're getting to do a lot of different types
+of projects and design work.
+>> Absolutely, and that's what was so
+fun is I usually had two concurrent projects happening.
+One would be for a wireless cell phone company and
+trying to figure out how they're gonna sell those products.
+And then the other thing might be doing a pitch for some kind of weird branding
+thing that we're gonna do like in the physical space and
+how does that physical space relate to something that's gonna be on the web.
+So it was always one thing was inspiring the other.
+And it was always really fast design work.
+Worked with a lot of cool people.
+But I'm not gonna say it wasn't stressful.
+It was a lot of work all the time.
+Especially at a big agency you always have these huge clients, the government.
+We've got the Navy, the United States Postal Service and then healthcare.
+We worked in a lot of different verticals.
+So financial services, healthcare, e-commerce.
+So you never know where you're gonna be.
+But you learn a ton all at once.
+But like I said I wanted to into some smaller agency that was more of a startup
+and found one where it was they really understood digital.
+They actually just were only digital.
+They had never done print or anything like that.
+But while I was there that's where I really got my e-commerce chops.
+Because we had a user research team and a user experience design team.
+So what would happen is we had our own usability lab in house.
+So when people were going through the e-commerce experience, shopping and then
+going through the shopping cart we were able to optimize every step of the way.
+And while we were studying and testing that we could between participants,
+between users, we could actually change the interface and tweak it so
+that we could really start dialing it in and get some of those gotchas out
+right away and then start to validate that design as we went through.
+>> Okay, so very tight integration between research and design.
+>> Yes, though they were, we had separatism.
+Cuz before I was like I was my own researcher.
+Or I wouldn't be able to do the recruiting.
+I would farm that out.
+But I would be running my tests.
+I would be creating the test, etc., which could have some
+ethical implications as far as am I objective when I'm testing my own designs.
+So it was good to have some of that was, okay.
+I'm not, I have no skin in this game.
+I'm just gonna test it for you.
+So that was pretty cool.
+And where I'm at now we have a user research team that goes out there,
+does observations, does ethnographic research.
+But also we have a usability lab here at Ithaca.
+So we kinda keep it separate, yet we're tightly integrated.
+I meet with them probably every other week so
+that they stay ahead of my recruiting needs or testing, design needs.
+>> So I'm gonna ask you for one parting thought, which is for
+folks that are just starting out, maybe just looking at UX or something that
+thinking about getting into, maybe thinking about moving towards a career.
+Do you have any advice?
+Absolutely, look at everything in your environment.
+And try to think about why it's there and its purpose.
+So I have a child.
+And it's great to look at his toys to think about, okay.
+What is its purpose?
+Does it communicate that purpose and do I like it?
+And so it really helps you influence of how you can think of an experience.
+Like this glass for instance.
+It has a purpose of it has to be a vessel to carry some water.
+But there a lot of things you can do to it.
+You can add color to it.
+You can have different shapes.
+But for instance it's not a bigger vessel.
+Because you gotta hold it with your hand.
+So it's think about that when you're thinking about your phone.
+You have to use it with your hand.
+And there's a certain amount of interaction with it and experience.
+So anyone that's thinking about getting into experience design or
+something like that it's fun to just critique things around you.
+Because then you can start thinking critically about design and
+why people create things.
+>> [SOUND] >> And then it really helps you influence.
+When you're in the digital realm you can do anything you want when you're not in
+the physical realm.
+So I like to juxtapose those things together.
+>> Excellent, yeah.
+So taking a designer eye view of the world
+is something that you can just do throughout you entire life.
+>> Right, exactly.
+And try to focus on the positive things and the things that make you feel good.
+Cuz a lot of times I could critic a ton of things that make me frustrated.
+And a lot of times that's what a lot of users feel that too.
+It's I'm so frustrated and we gotta make this better.
+>> So find some positive examples too.
+>> Exactly, exactly. >> Excellent, okay.
+Well, thank you very much.
+This has been great.
+And I really appreciate you taking your time to chat with us.
+>> Absolutely, thank you.

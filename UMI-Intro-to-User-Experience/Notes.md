@@ -571,11 +571,69 @@ OK Thank you so much again for your time and participation.  If you have any oth
 
 ### Lecture 10: Sketching
 
+- Qualities of a sketch
+	+ quick
+	+ timely
+	+ inexpensive
+	+ disposable
+	+ plentiful
+	+ minimal detail
+	+ allow ambiguity
+- Sketching is not just making sketches; it's about discussing the sketches as well
+- Why sketch?
+	+ Reflect on those sketches
+	+ Explore
+	+ Communicate quickly
+- How to sketch
+	+ Use pencil and paper (whiteboard OK)
+	+ Go fast
+	+ Don't perfect
+	+ Make lots of them
+	+ You do NOT have to be "good at drawing"
+- What to sketch
+	+ The problem
+		* How would someone experience this problem?
+	+ The solution
+		* What would it look like for the problem to be solved?
+		* How would a system help solve the problem?
+- Read about Bill Buxton on sketching
+- Opposing Processes in Design
+- Phases of Generation and Convergence
+- Generation: Create a LOT of sketches
+	+ Quantity over quality
+	+ Build, don't critique
+	+ Apply "lateral thinking"
+		* the solving of problems by an indirect and creative approach, typically through viewing the problem in a new and unusual light.
+		* Is a technique of problem solving by approaching problems indirectly at diverse angles instead of concentrating on one approach at length.
+		* Idea generation and problem solving technique in which new concepts are created by looking at things in novel ways
+		* Edward de Bono - lateral thinking
+- Convergence
+	+ Synthesize
+		* bring those ideas together; distill
+	+ Apply criteria
+	+ Critique
+	+ Eliminate some ideas, promote others
+- Sketchers' Block: Ideation
+	+ Don't stop
+	+ Brainstorm to get ideas
+	+ Matrix techniques => Morphological Analysis
+- Ideation Technique: the Worst Idea
+	+ use when stuck
+	+ think of the worst ideas you can for solving the problem
+	+ use these for inspiration
+- Go sketch
+	+ quick
+	+ imperfect
+	+ Quanity > Quality
+	+ Generate rathern than convergence
+	+ Lateral thinking
+
 [back to top](#top)
 
 ## Part 5: UX Design Overview - Part 2
 
 ### Interview: UX Designer Matt Martin
+
 
 
 ### Lecture 11: A Brief Incomplete History of UX
