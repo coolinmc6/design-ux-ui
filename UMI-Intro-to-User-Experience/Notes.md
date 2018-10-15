@@ -1,15 +1,21 @@
 <a name='top'></a>
 # Introduction to User Experience
 
-[Part 1: What is UX? What are UX Research and Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-1-what-is-ux-what-are-ux-research-and-design)
+- [Part 1: What is UX? What are UX Research and Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-1-what-is-ux-what-are-ux-research-and-design)
+	+ [Lecture 1: What is User Experience](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l1-what-is-user-experience)
+	+ [Lecture 2: The UX Process](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l2-the-ux-process)
+	+ [Lecture 3: Components of UX](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l3-components-of-ux)
+- [Part 2: UX Research Overview - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-2-ux-research-overview---part-1)
+	+ [Lecture 4: Basic Methods of UX Research](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l4-basic-methods-of-ux-research)
+	+ [Lecture 5: User Testing, Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l5-user-testing-part-1)
+	+ [Lecture 6: User Testing, Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l6-user-testing-part-2)
+	+ [Lecture 7: User Testing, Part 3](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l7-user-testing-part-3)
+- [Part 3: UX Research Overview - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-3-ux-research-overview---part-2)
+	+ [Script for Micro-Usability Test Plan](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#script-for-micro-usability-test-plan)
 
-[Part 2: UX Research Overview - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-2-ux-research-overview---part-1)
+- [Part 4: UX Design Overview - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-4-ux-design-overview---part-1)
 
-[Part 3: UX Research Overview - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-3-ux-research-overview---part-2)
-
-[Part 4: UX Design Overview - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-4-ux-design-overview---part-1)
-
-[Part 5: UX Design Overview - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-5-ux-design-overview---part-2)
+- [Part 5: UX Design Overview - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-5-ux-design-overview---part-2)
 
 ## Part 1: What is UX? What are UX Research and Design?
 
