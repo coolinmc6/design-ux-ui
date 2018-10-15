@@ -349,6 +349,100 @@
 
 ## Part 3: UX Research Overview - Part 2
 
+### Script for Micro-Usability Test Plan
+
+#### Preamble
+Hi, my name is Stanley, 
+
+
+Thank you so much for coming. How are you today? Today we’d like you to help us understand how well the site Cars.com help people explore and find cars they want. So, we’d like you to do a couple of tasks using the site and collect your feedback. Specifically we’d like to know what you think about the site, and what works and doesn’t work for you. Your feedback will help us learn how we can improve the site. 
+
+
+Before we start, here are several things I’d like you to know. First of all, we’re testing the site but not you. There’s nothing you can do wrong. So don’t worry about making any mistakes. If you cannot get something to work, or you think there’s anything broken or wrong or weird or confusing, it is not your fault but the system’s fault. Please let us know exactly what you think about the site. You can be honest. You won’t hurt anyone’s feelings if you say something bad about it. This is actually why we are bringing you here today to let us know which part of the site doesn’t do a good job. 
+
+
+I’ll tell you what tasks to do using the site. After you start, please try to focus on the tasks, but I may ask you a few questions during test. You can also ask me questions, but I may not be able to answer all of them, because we’re trying to observe what people do when there’s no one sitting next to them. But I’ll try to answer questions you still have when we are done.
+
+
+As we go along, I’m going to ask you to think aloud, which means that you speak all of your thoughts while you’re using the site, for example: what you’re looking at, what you’re trying to do, what you’re doing and thinking, why you’re doing and thinking that way. If you can’t find a way to complete a task and you think you’re stuck, let me know and you can move on to the next one. For each task you’re asked to do, tell me “I’m done” when you think you are done.
+
+
+**Do you have any questions for me before we begin?**
+
+#### Pre-Test Questions
+
+Before we look at the site, I’d like to ask you just a few quick questions. 
+
+1. First, what’s your occupation? 
+
+2. Roughly how many hours a week would you say you spend using the Internet, including email and messaging?
+
+3. How often do you shop online, and what types of products do you purchase online? 
+
+4. Can you tell us a couple of your favorite sites for shopping?
+
+**Now I’m going to ask your experience of purchasing vehicles.**
+
+1. How many vehicles have you owned 
+
+2. How many times have you purchased vehicles online?
+
+3. What factors do you consider when you buy a vehicle?
+
+**Follow up: which factor is most important to you?**
+
+1. How far are you willing to travel to a dealer to buy a automobile?
+
+
+**Read Description (20 seconds)**
+
+Now I’m going to ask you to do some specific tasks. I’ll read each one out loud and here’s a printed copy for your reference.
+
+And again, it’d be much helpful if you can think out loud as you go along.
+
+#### Task 1: (10 minutes)
+
+A family member of yours asks if you can find a car for her using Cars.com because she has been very busy recently. She wants to buy a used Honda Civic that:
+
+- Is not older than 3 years
+- Uses automatic transmission
+- Is under $20,000 US dollars
+- Is either grey, white, or black. 
+- She also doesn’t want to travel too far away from home, and she wants the car to be as cheap as possible. 
+ 
+**Find two cars based on her preference.**
+
+Great thanks, here’s the the second thing I’d like you to do
+
+#### Task 2: (10 minutes) 
+
+You are in the market for a new car. You have saved $4000 for a down payment and have determined that you can afford a monthly payment of at most $400 towards a five-year car loan. Figure out the maximum price you can afford for a new car.
+
+#### Task 3: (15 minutes)
+
+You want to buy a new car using Cars.com that fits into your budget (as determined in the previous task). Use Cars.com to find a car for yourself, using using your own criteria, such as price, appearance, and engine. Find at least two cars that you’re interested in and put them in your list so that you can compare them later.
+
+#### Task 4 (optional)
+
+You have saved two cars, and now you want to compare the cars. Choose one you like the most. and plan your visit to the dealer(s) on this weekend that sells the car. In addition, find out what other cars are also available at the dealers.
+
+#### Debriefing (1-2 minutes)
+That was great. Thank you for the feedback, We have learned so much from you. Now I’m going to wrap up with a couple of questions”
+
+1. Which part of the site did you find difficult or easy to use for the tasks?
+
+2. Is there anything on the interface that didn't make sense to you, or is confusing to you?
+
+3. I noticed that you… (fill in with questions around what you noticed about their actions)
+
+4. What were you thinking when you… (fill in with questions around what)
+
+**Do you have any final comments or questions?**
+
+..
+
+OK Thank you so much again for your time and participation.  If you have any other thoughts or ideas coming up, please let me know. 
+
 [back to top](#top)
 
 ## Part 4: UX Design Overview - Part 1
