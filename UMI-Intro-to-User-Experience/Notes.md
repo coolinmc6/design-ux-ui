@@ -174,6 +174,8 @@
 	+ Inspect when:
 		* you have a product to inspect
 
+[back to top](#top)
+
 ### L5: User Testing, Part 1
 
 - What is User Testing
@@ -236,8 +238,8 @@
 	* Can include open and close-ended tasks
 	* be careful to avoid "ordering effects"
 		- if your tasks are set in a sequential or quasi-sequential order, they'd have help doing something that they normally wouldn't have
-	* 
 
+[back to top](#top)
 
 ### L6: User Testing, Part 2
 
@@ -275,7 +277,8 @@
 		* attention to detail will not be quite realistic
 		* need to determine "rules of engagement" for questions, mistakes, etc.
 			- are you not going to act like a normal person and just NOT answer them? State that up front
-- 
+
+[back to top](#top)
 
 ### L7: User Testing, Part 3
 
@@ -510,8 +513,11 @@ OK Thank you so much again for your time and participation.  If you have any oth
 
 - ...and Repeat!
 
+[back to top](#top)
 
 ### Lecture 9: Prototypes
+
+[back to top](#top)
 
 ### Lecture 10: Sketching
 
@@ -521,7 +527,10 @@ OK Thank you so much again for your time and participation.  If you have any oth
 
 ### Interview: UX Designer Matt Martin
 
+
 ### Lecture 11: A Brief Incomplete History of UX
+
+[back to top](#top)
 
 ### Lecture 12: Course Summary
 
