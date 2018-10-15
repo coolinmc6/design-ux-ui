@@ -517,6 +517,56 @@ OK Thank you so much again for your time and participation.  If you have any oth
 
 ### Lecture 9: Prototypes
 
+- A prototype is...
+	+ a representation of a design made before the final solution exists
+- Why prototype?
+	+ Reification => make our ideas concrete
+	+ Reflection
+	+ Communication
+	+ Assessment
+- Prototypes have many forms
+	+ a "representation of a design" can mean many things
+	+ lower-fidelity prototypes are obviously cheaper; start lo-fi and work up
+- Lo-fi Prototypes
+	+ Address
+		* functionality
+		* basic organization
+		* task flow and converage
+	+ Ignore
+		* graphics
+		* programming
+		* real data
+- Mid-fi Prototypes
+	+ Address
+		* all the same as Lo-fi plus...
+		* layout
+		* interactivity
+		* navigation
+	+ Ignore
+		* graphics
+		* programming
+		* real data
+- Hi-fi Prototypes
+	+ Address
+		* Mid and Lo-fiedlity plus...
+		* graphic design
+		* interaction details
+		* realistic data
+	+ Ignore
+		* backend programming
+		* complete functional coverage
+- Economic principle of prototyping
+	+ the best prototype is th eone that, in the simplest and most efficient way, makes the possiblities of a design idea visible and measureable
+- Premature Commitment
+	+ Looking to avoid investing resources (time, money) in a dead end
+	+ Problems
+		* waste money and effort
+		* exhause project resources/timeline, stuck with a bad design
+		* cognitive and emotional commitments hard to undo
+- Lo-fi prototyping maximizes the number of times you get to refine your design before going to production
+- Lo-fi prototypes are not precious so people are more likely to give honest feedback
+	
+
 [back to top](#top)
 
 ### Lecture 10: Sketching
