@@ -457,13 +457,71 @@ That was great. Thank you for the feedback, We have learned so much from you. No
 
 OK Thank you so much again for your time and participation.  If you have any other thoughts or ideas coming up, please let me know. 
 
+### Interview with UX Researcher Lija Hogan
+
+- watched
+
 [back to top](#top)
 
 ## Part 4: UX Design Overview - Part 1
 
+### Lecture 8: UX Design Overview
+
+- What is Design?
+	+ it's not just what it looks like; design is how it works
+	+ Design is a plan for arranging elements in such a way to best accomplish a particular purpose
+- What is design?
+	+ a plan
+	+ arranging elements
+	+ a purpose
+	+ what it looks like / feels like
+- What is design?
+	+ Design is *solving problems*
+	+ Design is as much a matter of finding problems as solving them
+- The Design Process
+	+ Understand the problem
+	+ Generate Possible Solutions
+	+ Analyze and Select
+	+ Embody the solutions (i.e. build a prototype)
+	+ Assess (find new problems)
+- 50 Problems in 50 Days
+	+ [http://50problems50days.com/](http://50problems50days.com/)
+- What is special about UX Design?
+	+ Experiences are interactive
+		* time-based
+		* action-response rules
+		* Action: command options (things that users can do)
+		* Response: information presentation
+		* Complex system behavior (focus on usability)
+	+ Context is Critical
+		* other interactions
+- The UX Design Process
+
+|Step|Actions|
+|:---:|:---:|
+|Understand the problem|Study users: tasks and context|
+|Generate Possible Solutions|Sketch, storyboard, wireframe|
+|Analyze and Select|Apply UX criteria|
+|Embody the solutions|build prototype|
+|Assess (find new problems)|Apply UX research methods|
+
+- ...and Repeat!
+
+
+### Lecture 9: Prototypes
+
+### Lecture 10: Sketching
+
 [back to top](#top)
 
 ## Part 5: UX Design Overview - Part 2
+
+### Interview: UX Designer Matt Martin
+
+### Lecture 11: A Brief Incomplete History of UX
+
+### Lecture 12: Course Summary
+
 
 
 [back to top](#top)
