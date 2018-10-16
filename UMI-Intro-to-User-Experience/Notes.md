@@ -3,6 +3,7 @@
 <a name='top'></a>
 # Introduction to User Experience
 
+- [Course Summary and Key Take-aways](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#my-key-take-aways)
 - [Part 1: What is UX? What are UX Research and Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-1-what-is-ux-what-are-ux-research-and-design)
 	+ [Lecture 1: What is User Experience](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l1-what-is-user-experience)
 	+ [Lecture 2: The UX Process](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l2-the-ux-process)
@@ -23,7 +24,7 @@
 	+ [Lecture 12: Course Summary](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-12-course-summary)
 
 
-## My Key Take-aways
+## Course Summary and Key Take-aways
 
 ### Basic Summary
 
@@ -62,6 +63,7 @@
 - The UX Design process is also pretty familiar because I've ready many blog posts, articles, books on these things but it's good to see a list and breakdown by "step" in the process
 - The discussion of [Prototypes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-9-prototypes) and [Sketching](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-10-sketching) are good but also very intuitive. The most interesting part was the ["lateral thinking"](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lateral-thinking) suggestion during the Generation phase in sketching.
 
+[back to top](#top)
 
 ## Part 1: What is UX? What are UX Research and Design?
 
