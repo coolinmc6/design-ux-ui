@@ -638,6 +638,74 @@ OK Thank you so much again for your time and participation.  If you have any oth
 
 ### Lecture 11: A Brief Incomplete History of UX
 
+- Human Computer Interaction, 
+- The Birth of HCI (Human Computer Interaction): Early 80's
+	+ computer use by non-programmers
+	+ graphical user interface (GUI)
+	+ 1982 - First CHI Conference in Gaithersburg, MD (907 attendees)
+		* CHI = pronounced "kai"
+- 1980's Practice: Usability and UI Design
+	+ to learn the practice:
+		* attend CHI
+		* do one of a few random classes around the country (CS and psych)
+	+ Books:
+		* User Centered System
+		* Psychology of Everyday Things
+			- the Design of Everyday Things
+- Usability as a Software Engineering Issue
+	+ Usability Testing
+		* often performed at the end of development to validate the product
+	+ UI Design
+		* putting a "pretty face" on software whose functionality was pretty much already setup
+- The Internet Changes Everything
+	+ 1988 - WWW "invented" by Tim Berners-Lee
+		* specification to allow pages to be linked together
+	+ 1991 - The first web page
+	+ 1993 - Mosaic web browser released
+	+ 1995 - Internet commerce allowed
+		* Amazon.com was released
+	+ 1997 - 2000 - the dot com bubble
+	+ Suddenly a LOT more people were dealing with this stuff
+		* more companies
+		* more end users
+		* ALL doing more stuff
+- Mow everyone is paying attention
+	+ 10's of thousands of jobs
+	+ 1000's of new "web designers"
+	+ UI Design and Usability engineering not enough
+- Hello, Interaction Design
+	+ Bill Verplank
+	+ Bill Moggridge
+	+ both were industrial designers by trade
+	+ Captured the shift
+		* beyond user interface design
+		* beyond usability engineering
+		* beyond human-computer interaction
+		* beyond graphical/industrial design
+		* beyond software engineering
+- 2000's: From Sites to Apps to Services
+	+ Computing as a way of life, not a special activity
+	+ Computing as part of an ongoing relationship with customers
+	+ Merging of usability and interaction design with:
+		* marketing and branding
+		* market research
+		* product strategy
+		* physical design
+	+ Recognition of User Experience as a central concern for products, brands and enterprises
+- User Experience Today
+	+ Now seen as strategically important
+	+ common set of concerns and basic approaches
+	+ Increasing Specialization
+
+|UX Research|UX Design|
+|:---:|:---:|
+|Qualitative UX Research|Visual Design|
+|Quantitative UX Research|Interaction Design|
+||Information Architecture|
+<td colspan="2">Project Management
+<td colspan="2">UX Strategy
+
+
 [back to top](#top)
 
 ### Lecture 12: Course Summary
