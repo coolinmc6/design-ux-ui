@@ -718,10 +718,10 @@ OK Thank you so much again for your time and participation.  If you have any oth
 			<td>Information Architecture</td>
 		</tr>
 		<tr>
-			<td colspan="2">Project Management</td>
+			<td colspan="2" style="text-align: center;">Project Management</td>
 		</tr>
 		<tr>
-			<td colspan="2">UX Strategy</td>
+			<td colspan="2" style="text-align: center;">UX Strategy</td>
 		</tr>
 	</tbody>
 </table>
