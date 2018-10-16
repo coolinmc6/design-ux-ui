@@ -22,6 +22,47 @@
 	+ [Lecture 11: A Brief Incomplete History of UX](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-11-a-brief-incomplete-history-of-ux)
 	+ [Lecture 12: Course Summary](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-12-course-summary)
 
+
+## My Key Take-aways
+
+### Basic Summary
+
+- *User experience* can be a difficult concept to understand because it's easy to have a feel for what makes *good UX* (i.e. useful, helpful, easy to learn, fun, etc.) and what makes *bad UX* (i.e. stressful, confusing, ugly, etc.)
+- But getting UX correct is hard
+- User experience generally defined is **the experience people have when they interact with your**
+**product**
+- This broad definition covers many areas BESIDES just using the product (i.e. acquiring the product, learning it, fixing the product, etc.)
+- One of the key take-aways of the course is that you can make UX easier if you do these four things:
+	+ 1. Follow an **iterative**, prototyping process
+	+ 2. Apply **user-centered** research and design methods
+	+ 3. **Understand** a bit about human behavior
+	+ 4. Apply **common sense**
+- For the first one, understanding that you must **iterate** is important. The general UX Process is: 
+	- Assess (what should I build?) then... 
+	- Design (what should it look like/how should it function?), then...
+	- Build (build it and test it with users)
+* Understanding user-centered research and design methods can be further broken down into two parts:
+	- *UX Research*: Interviews, Observations, Surveys, User Testing, Inspection Methods
+	- *UX Design*: Personas/Scenarios/User Stories, Sketching and Ideation, Storyboarding, Mapping and Navigation Design, Comparative Research, Prototyping
+* There are certain things about how people work that are 'known' and can be learned:
+	- What can people perceived? How they extract information from visual stimuli?
+	- How do people do things?
+	- How does emotion play a role?
+
+### Most Interesting Parts
+
+- Understanding the [Components of UX](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l3-components-of-ux) provides a good baseline but feels very intuitive. The benefit to this list of items is that I won't have to derive it; to just get started, go through those four components (value, usability, desirability, and adoptability) and see how my product does in each one of those.
+	+ CM: I believe there are some questions for each component
+- The [Basic Methods of UX Research](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l4-basic-methods-of-ux-research) include Ask, Observe, and Inspect. This is a super-broad classification that, again, feels very intuitive. All three make sense but I can probably build my knowledge of each one (i.e. best practices for each)
+- The "Ask" category of research feels most basic but I feel like there are probably some best practices with surveys that I could easily learn and build upon
+- The "Observe" category of research involves the two main areas that was most interested in before doing this class: User Testing (which is covered [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l5-user-testing-part-1), [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l6-user-testing-part-2), [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l7-user-testing-part-3), and [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#script-for-micro-usability-test-plan)) and User Analytics which we didn't really touch
+	+ I must come back to this because the user testing parts have great info on how to do user tests, how to set it up and talk to users ("we are testing the system, not you"), close-ended vs. open-ended tasks, writing up a task list for participants, and the debrief.
+	+ I should spend just one hour and just get down on paper a basic "process" for how I would write up a task list, gather and talk to test users, talk to the users and administer the test, and then debrief. Even if it's just like 5-10 bullets for each, just to get a "process" down
+- The [UX Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-8-ux-design-overview) section starts with a few definitions of the word "design" that are clearly trying to get us to think of design beyond just what it looks like but rather **how it works**
+- The UX Design process is also pretty familiar because I've ready many blog posts, articles, books on these things but it's good to see a list and breakdown by "step" in the process
+- The discussion of [Prototypes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-9-prototypes) and [Sketching](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-10-sketching) are good but also very intuitive. The most interesting part was the ["lateral thinking"](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lateral-thinking) suggestion during the Generation phase in sketching.
+
+
 ## Part 1: What is UX? What are UX Research and Design?
 
 ### L1: What is User Experience?
@@ -604,7 +645,7 @@ OK Thank you so much again for your time and participation.  If you have any oth
 - Generation: Create a LOT of sketches
 	+ Quantity over quality
 	+ Build, don't critique
-	+ Apply "lateral thinking"
+	+ Apply "lateral thinking" <a name='lateral-thinking'></a>
 		* the solving of problems by an indirect and creative approach, typically through viewing the problem in a new and unusual light.
 		* Is a technique of problem solving by approaching problems indirectly at diverse angles instead of concentrating on one approach at length.
 		* Idea generation and problem solving technique in which new concepts are created by looking at things in novel ways
