@@ -697,13 +697,34 @@ OK Thank you so much again for your time and participation.  If you have any oth
 	+ common set of concerns and basic approaches
 	+ Increasing Specialization
 
-|UX Research|UX Design|
-|:---:|:---:|
-|Qualitative UX Research|Visual Design|
-|Quantitative UX Research|Interaction Design|
-||Information Architecture|
-<td colspan=2>Project Management</td>
-<td colspan=2>UX Strategy</td>
+<table>
+	<thead>
+		<tr>
+			<th>UX Research</th>
+			<th>UX Design</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Qualitative UX Research</td>
+			<td>Visual Design</td>
+		</tr>
+		<tr>
+			<td>Quantitative UX Research</td>
+			<td>Interaction Design</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Information Architecture</td>
+		</tr>
+		<tr>
+			<td colspan="2">Project Management</td>
+		</tr>
+		<tr>
+			<td colspan="2">UX Strategy</td>
+		</tr>
+	</tbody>
+</table>
 
 
 [back to top](#top)
