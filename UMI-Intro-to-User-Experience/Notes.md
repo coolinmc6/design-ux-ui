@@ -726,11 +726,47 @@ OK Thank you so much again for your time and participation.  If you have any oth
 	</tbody>
 </table>
 
+- In a nutshell
+	+ the history of UX is the history of user-centered design
+	+ terminology changes but the focus remains and evolves
+	+ specialization is common but the big picture is essential
+	+ UX is increasingly important to business and everything we do
 
 [back to top](#top)
 
 ### Lecture 12: Course Summary
 
+- Course Summary
+	+ UX is important
+	+ UX doesn't come easu
+- How to make UX easy
+	+ follow an iterative prototyping process
+	+ apply user-centered research and design methods
+	+ understand ab it about human behavior
+	+ apply common sense
+- What Next?
+	+ Deeper into UX Research
+		* undestanding user needs
+		* formal user testing
+		* inspection methods
+		* large-scale methods
+			- web analytics, A/B testing
+	+ Deeper into UX Design
+		* building prototypes
+		* representing users and tasks
+		* specifying system behavior
+	+ Putting it all together
+		* Combining UX Research and UX Design in a single project
+- The MicroMasters
+	+ 1 - Introduction to User Experience (this course)
+	+ 2 - Understanding User Needs
+	+ 3 - Principles of Designing for Humans
+	+ 4 - Evaluating Designs with Users
+	+ 5 - UX Design: From Concept to Wireframe
+	+ 6 - UX Design: From Wireframe to Prototype
+	+ 7 - UX Research Surveys
+	+ 8 - UX Research at Scale: Analytics and Online Experiments
+	+ 9 - UX Capstone
 
 
 [back to top](#top)
