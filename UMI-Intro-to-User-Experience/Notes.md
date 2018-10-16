@@ -3,8 +3,12 @@
 <a name='top'></a>
 # Introduction to User Experience
 
+## Table of Contents
+
 - [Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Intro-to-User-Experience/Course-Documents)
-- [Course Summary and Key Take-aways](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#my-key-take-aways)
+	+ [Basic Summary](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#basic-summary)
+	+ [Most Interesting Parts](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#most-interesting-parts)
+- [Course Summary and Key Take-aways](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#course-summary-and-key-take-aways)
 - [Part 1: What is UX? What are UX Research and Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-1-what-is-ux-what-are-ux-research-and-design)
 	+ [Lecture 1: What is User Experience](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l1-what-is-user-experience)
 	+ [Lecture 2: The UX Process](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l2-the-ux-process)
