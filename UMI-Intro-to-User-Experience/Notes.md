@@ -702,8 +702,8 @@ OK Thank you so much again for your time and participation.  If you have any oth
 |Qualitative UX Research|Visual Design|
 |Quantitative UX Research|Interaction Design|
 ||Information Architecture|
-|<td colspan="2">Project Management</td>
-|<td colspan="2">UX Strategy</td>
+<td colspan=2>Project Management</td>
+<td colspan=2>UX Strategy</td>
 
 
 [back to top](#top)
