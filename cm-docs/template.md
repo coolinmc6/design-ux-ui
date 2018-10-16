@@ -6,9 +6,9 @@
 ## Table of Contents
 
 - [Course Documents](#)
-- [Course Summary and Key Take-aways](#)
-	+ [Basic Summary](#)
-	+ [Most Interesting Parts](#)
+- [Course Summary and Key Take-aways](#course-summary-and-key-take-aways)
+	+ [Basic Summary](#course-summary)
+	+ [Most Interesting Parts](#my-key-takeaways)
 
 ## Course Summary and Key Take-aways
 
@@ -17,4 +17,3 @@
 ### My Key Takeaways
 
 [back to top](#top)
-
