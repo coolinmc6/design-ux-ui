@@ -3,6 +3,7 @@
 <a name='top'></a>
 # Introduction to User Experience
 
+- [Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Intro-to-User-Experience/Course-Documents)
 - [Course Summary and Key Take-aways](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#my-key-take-aways)
 - [Part 1: What is UX? What are UX Research and Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#part-1-what-is-ux-what-are-ux-research-and-design)
 	+ [Lecture 1: What is User Experience](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l1-what-is-user-experience)
@@ -42,10 +43,10 @@
 	- Assess (what should I build?) then... 
 	- Design (what should it look like/how should it function?), then...
 	- Build (build it and test it with users)
-* Understanding user-centered research and design methods can be further broken down into two parts:
+- Understanding user-centered research and design methods can be further broken down into two parts:
 	- *UX Research*: Interviews, Observations, Surveys, User Testing, Inspection Methods
 	- *UX Design*: Personas/Scenarios/User Stories, Sketching and Ideation, Storyboarding, Mapping and Navigation Design, Comparative Research, Prototyping
-* There are certain things about how people work that are 'known' and can be learned:
+- There are certain things about how people work that are 'known' and can be learned:
 	- What can people perceived? How they extract information from visual stimuli?
 	- How do people do things?
 	- How does emotion play a role?
@@ -53,14 +54,14 @@
 ### Most Interesting Parts
 
 - Understanding the [Components of UX](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l3-components-of-ux) provides a good baseline but feels very intuitive. The benefit to this list of items is that I won't have to derive it; to just get started, go through those four components (value, usability, desirability, and adoptability) and see how my product does in each one of those.
-	+ CM: I believe there are some questions for each component
+	+ CM: I believe there are some questions for each component in the [course documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Intro-to-User-Experience/Course-Documents)
 - The [Basic Methods of UX Research](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l4-basic-methods-of-ux-research) include Ask, Observe, and Inspect. This is a super-broad classification that, again, feels very intuitive. All three make sense but I can probably build my knowledge of each one (i.e. best practices for each)
-- The "Ask" category of research feels most basic but I feel like there are probably some best practices with surveys that I could easily learn and build upon
-- The "Observe" category of research involves the two main areas that was most interested in before doing this class: User Testing (which is covered [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l5-user-testing-part-1), [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l6-user-testing-part-2), [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l7-user-testing-part-3), and [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#script-for-micro-usability-test-plan)) and User Analytics which we didn't really touch
+- The "Ask" category of research feels most basic but there are probably some best practices with surveys that I could easily learn and build upon
+- The "Observe" category of research involves the two main areas that I was most interested in before doing this class: User Testing (which is covered [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l5-user-testing-part-1), [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l6-user-testing-part-2), [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l7-user-testing-part-3), and [here](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#script-for-micro-usability-test-plan)) and User Analytics which we didn't really touch
 	+ I must come back to this because the user testing parts have great info on how to do user tests, how to set it up and talk to users ("we are testing the system, not you"), close-ended vs. open-ended tasks, writing up a task list for participants, and the debrief.
 	+ I should spend just one hour and just get down on paper a basic "process" for how I would write up a task list, gather and talk to test users, talk to the users and administer the test, and then debrief. Even if it's just like 5-10 bullets for each, just to get a "process" down
 - The [UX Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-8-ux-design-overview) section starts with a few definitions of the word "design" that are clearly trying to get us to think of design beyond just what it looks like but rather **how it works**
-- The UX Design process is also pretty familiar because I've ready many blog posts, articles, books on these things but it's good to see a list and breakdown by "step" in the process
+- The UX Design process is also pretty familiar because I've ready many blog posts, articles, books on these things but it's good to see a list and breakdown by "step" in the [process](#design-process)
 - The discussion of [Prototypes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-9-prototypes) and [Sketching](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-10-sketching) are good but also very intuitive. The most interesting part was the ["lateral thinking"](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lateral-thinking) suggestion during the Generation phase in sketching.
 
 [back to top](#top)
@@ -529,7 +530,7 @@ OK Thank you so much again for your time and participation.  If you have any oth
 - What is design?
 	+ Design is *solving problems*
 	+ Design is as much a matter of finding problems as solving them
-- The Design Process
+- The Design Process <a name="design-process"></a>
 	+ Understand the problem
 	+ Generate Possible Solutions
 	+ Analyze and Select
