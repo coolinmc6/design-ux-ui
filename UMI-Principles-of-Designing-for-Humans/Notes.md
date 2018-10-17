@@ -27,6 +27,7 @@
 
 ### My Key Takeaways
 
+[back to top](#top)
 
 ## How do People Perceive Information?
 
