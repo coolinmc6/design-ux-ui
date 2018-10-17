@@ -19,7 +19,7 @@
 	+ [Gulfs of Execution and Evaluation](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l6-gulfs-of-execution-and-evaluation)
 	+ [Design Principles](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l7-design-principles)
 - [Design Heuristics](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#design-heuristics)
-	+ [Heuristics for Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#heuristics-for-design)
+	+ [Heuristics for Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l8-heuristics-for-design)
 
 ## Course Summary and Key Take-aways
 
