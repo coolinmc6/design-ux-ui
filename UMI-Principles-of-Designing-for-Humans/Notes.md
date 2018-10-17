@@ -1,6 +1,31 @@
 <a name='top'></a>
 # Principles of Designing for Humans
 
+## Table of Contents
+
+- [Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Principles-of-Designing-for-Humans/Course-Documents)
+- [Course Summary and Key Take-aways](#course-summary-and-key-take-aways)
+	+ [Basic Summary](#course-summary)
+	+ [Most Interesting Parts](#my-key-takeaways)
+- [How do People Perceive Information?](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#how-do-people-perceive-information)
+	+ [Visual Perception - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l1-visual-perception-part-1)
+	+ [Visual Perception - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l2-visual-perception-part-2)
+	+ [Memory - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l3-memory-part-1)
+	+ [Section Summary and Quiz](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#section-summary-and-quiz)
+- [How Do People Act in the World?](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#how-do-people-act-in-the-world)
+	+ [Seven Stages of Action](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l5-seven-stages-of-action)
+	+ [Gulfs of Execution and Evaluation](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l6-gulfs-of-execution-and-evaluation)
+	+ [Design Principles](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l7-design-principles)
+- [Design Heuristics](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#design-heuristics)
+	+ [Heuristics for Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#heuristics-for-design)
+
+## Course Summary and Key Take-aways
+
+### Course Summary
+
+### My Key Takeaways
+
+
 ## How do People Perceive Information?
 
 ### L1: Visual Perception, Part 1
@@ -233,6 +258,7 @@
 
 ## Design Heuristics
 
+### L8: Heuristics for Design
 
 [back to top](#top)
 
