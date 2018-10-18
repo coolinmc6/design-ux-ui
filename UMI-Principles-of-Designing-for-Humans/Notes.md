@@ -9,6 +9,7 @@
 - [Course Summary and Key Take-aways](#course-summary-and-key-take-aways)
 	+ [Basic Summary](#course-summary)
 	+ [Most Interesting Parts](#my-key-takeaways)
+	+ [Recommended Resources](#recommended-resources)
 - [How do People Perceive Information?](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#how-do-people-perceive-information)
 	+ [Visual Perception - Part 1](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l1-visual-perception-part-1)
 	+ [Visual Perception - Part 2](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l2-visual-perception-part-2)
