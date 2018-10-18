@@ -263,9 +263,265 @@
 
 ### L8: Heuristics for Design
 
+- From Knowledge to GUidelines
+	+ Important to understand
+		* how people perceive
+		* how people remember
+		* how people act to pursue goals
+	+ How can system designs use this knowledge to improve UX?
+		* A: "Guidelines"
+- Example page of guidelines for government web pages: [https://webstandards.hhs.gov/guidelines/](https://webstandards.hhs.gov/guidelines/)
+	+ one drawback to the above usability guidelines is that they aren't applicable to every site or scenario
+	+ another is that super-detailed guidelines
+- Guidelines
+	+ There are many out there
+	+ you could any set
+	+ Choosing guidelines:
+		* are they well-supported and focused on user experience?
+		* Do they cover all the important best practices?
+		* Do they apply to your platform/situation?
+		* Are they easy to use?
+- Jakob Nielsen's 10 Heuristics
+	+ "Heuristic" means "rule of thumb"
+		* slightly more general than a "guideline"
+	+ Derived from a sustematic review of usability problems
+	+ intended to be a small, complete and usable set
+	+ able to be taught in a few hours
+	+ well-supported by theories of perception and cognition
+- 10 Heuristics
+	1. Visibility of system status
+	2. match between system and the real world
+	3. User control and freedom
+	4. Consistency and standards
+	5. Error prevention
+	6. Recognition rather than recall
+	7. Flexibility and efficiency of use
+	8. Aesthetic and minimalist design
+	9. Help users recognize, diagnose and recover from errors
+	10. Help and documentation
+
 [back to top](#top)
+
+### L9: Heuristic #1: Visibility of System Status
+
+- Visibility of System Status
+	+ the system should always keep users informed about what is going on, through appropriate feedback within a reasonable time
+	+ Why?
+		* knowing what actions are available bridges the Gulf of Execution
+		* Knowing how the system responded bridges the Gulf of Evaluation
+		* Echoes Norman's principles of Feedback and Constraints
+	+ It manifests in a number of ways throughout the system:
+		* Feedback
+		* General Availability
+	+ Feedback
+		* simple things like underlining a link when you hover over it
+		* If you mark conversations as "read" in Gmail, you get a little message that says that
+		* Available actions: if you can't do a certain action but the button is there, the button is disabled
+	+ General Availability
+		* is it busy or loading? Show a loading image
+		* Show a progress bar if you need more time
+		* How users react to delay:
+			- Less than 100 milliseconds: "instantaneous"
+			- Up to 1.0 second: tolerable but delay is noticeable
+			- Up to 10 seconds: annoying, but willing to wait if it's worth it
+			- More than 10 seconds: focus lost, users will move on to something else
+		* Guidelines
+			- strive for less than 100 ms
+			- up to 1 second, no indicator needed
+			- 1- 10 seconds, use a wait cursor
+			- Over 10 seconds, complete in background
+
+
+[back to top](#top)
+
+### L10: Heuristic #2: Match Between System and Real World
+
+- The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
+- Why?
+	+ Take advantage of users' existing *schema*
+	+ Leverage perceived affordances and signifiers that suggest actions
+	+ Reduce difficulty of forming effective conceptual models
+- Language
+- Order of operations
+	+ create document -> write something -> save doc -> give it a name -> choose folder
+- Metaphor
+	+ shopping cart
+	+ file
+- The systems we create should match the real world as best as we can so that users can understand and use it effectively
+
+
+[back to top](#top)
+
+### L11: Heuristic #3: User Control and Freedom
+
+- Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo
+- Why?
+	+ mistakes are inevitable
+	+ Support the 7 stages of action by allowing reformulated goals
+	+ Users employ trial and error to learn a new system
+- Emergency exits:
+	+ "Stop Installation"
+	+ "undo" or "redo" buttons
+- Users need the freedom to make mistakes and recover from their mistakes
+
+[back to top](#top)
+
+### L12: Heuristic #4: Consistency and Standards
+
+- Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.
+- Why?
+	+ Leverage users' schemas => allow them to use patterns of information/systems and apply that to your system
+	+ present a coherent conceptual model
+- Consistency of language, layout, and behavior
+	+ "Search" vs. "Submit query"
+	+ "Save" vs. "Commit"
+	+ "Create" vs. "New..."
+	+ Example: Amazon
+		* different items are presented in similar ways: main picture, price on the right, description below, etc.
+	+ Consistency across products
+		* Think Google Docs Suite
+- Platform Standards
+	+ think of how poor FlatPak's website was (navigation in particular)
+
+
+[back to top](#top)
+
+### L13: Heuristic #5: Error Prevention
+
+- Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.
+- Why?
+	+ mistakes are common
+	+ people don't see or read everything on the screen
+	+ people make mistakes when typing, clicking, etc.
+- Provide constraints
+	+ ex: enter a birthdate (if you don't state the format, you could get a lot of errors)
+	+ ex: live error messages as they are typing
+- Confirmation of Risky Actions
+	+ "Are you sure you want to permanently delete these items?"
+	+ prevent errors that are likely to occur
+
+
+[back to top](#top)
+
+### L14: Heuristic #6: Recognition Over Recall
+
+- Minimize the user's memory load by making objects, actions and options visible. The user should not have to remember information from one part of the dialogue to another. Instruction for use of the system should be visible or easily retrievable whenever appropriate.
+- A familiar stimulus triggers retrieval from long-term memory
+- Recall forces users to:
+	+ recreate chain of associations themselves, or
+	+ forcefully learn through elaborative rehearsal
+- Recall will fail unless remembered actions are
+	+ frequent
+	+ Recent
+	+ Strongly associated
+- Direct Manipulation
+	+ direct manipulation shows all options that we'd want to do (i.e. animate an item in a powerpoint slide)
+- Where does recall come up?
+	+ textual commands like in a terminal window
+	+ passwords
+	+ speech UI's
+		* Siri gives a list of things that you can ask it / "her"
+
+[back to top](#top)
+
+### L15: Heuristic #7: Flexibility and Efficency of Use
+
+- Accelerators - unseen by the novice user - may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
+- Why?
+	+ recall is bad for new/infrequent users but can be **fast** for experts
+	+ Different users have different goals, allow them to customize
+		* but don't force them to!
+- Accelerators (i.e. keyboard shortcuts)
+- Shortcuts and Bookmarks => browsers do this often
+
+[back to top](#top)
+
+### L16: Heuristic #8: Aesthetic and Minimalist Design
+
+- Dialogues should not contain information that is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.
+- Why?
+	+ visual clutter makes it harder to find and focus on desired actions
+	+ Good use of color, shape, motion, and gestalt principles guide the eye
+	+ The more there is to see, the less of it users will actually see
+- Google: nothing but a search bar
+- Use Gestalt principles for non-linear reading
+
+[back to top](#top)
+
+### L17: Heuristic #9: Error Recovery
+
+- Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
+- Why?
+	+ #9 - is a special case of 1, 2, 3 and 5
+	+ #1 - Give Feedback
+	+ #2 - Speak the users' language
+	+ #3 - Allow users to undo and escape mistakes
+	+ #5 - Prevent and detect errors
+
+[back to top](#top)
+
+### L18: Heuristic #10: Help and Documentation
+
+- Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
+- Why?
+	+ Your UI may not be as self-explanatory as you thought
+	+ Structure to support Gulf of Execution
+		* easy to search
+		* contain list of actions
+		* focused on user's tasks
+- Contextual Help
+	+ help that is specific to the task they are trying to perform
+
+### Random Items
+
+- Look at [http://www.webpagesthatsuck.com/](http://www.webpagesthatsuck.com/); there are some great examples of bad websites
+
+[back to top](#top)
+
 
 ## Heuristic Evaluation and Course Wrap-up
 
 
 [back to top](#top)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
