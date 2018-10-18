@@ -39,6 +39,15 @@
 
 ### My Key Takeaways
 
+### Recommended Resources
+
+- Don Norman: The Design of Everyday Things
+- Jeff Johnson: Designing with the Mind in Mind
+- Steve Krug: Don't Make Me Think
+- Observing the User Experience
+- Don Norman: Emotional Design
+- Adny Polaine: Service Design: From Insight to Inspiration
+
 [back to top](#top)
 
 ## How do People Perceive Information?
@@ -494,6 +503,85 @@
 ## Heuristic Evaluation and Course Wrap-up
 
 ### L19: Heuristic Evaluation
+
+- a Heuristic Evaluation is designed to be a quick way to look at your user experience
+- It is an "inspection" method where you do a systematic "close read" of your user interface and then apply the heuristics to find and explain problems
+- Here is the basic methodology (very intuitive / not groundbreaking):
+	+ choose a set of screens/interactions for focus
+	+ step through, applying heuristics to find potential problems
+	+ Write down all violations, big and small
+	+ assess the severity of each problem
+	+ create prioritized list of problems to fix
+- Problem Severity:
+	+ 1 = cosmetic, no real usability impact
+	+ 2 = minor problem, fix if there is time
+	+ 3 = major problem, important to fix
+	+ 4 = catstophe, MUST fix
+- In the example, they list a few key parts:
+	+ Finding / Violation: what is the problem that you see
+	+ Severity: 1 - 4
+	+ Heuristic Violated: Visibility of system status
+	+ Recommendation
+- Prioritizing
+	+ Highlight the top 5-10 problems
+	+ Ranked in decreasing order of severity
+	+ Use heuristics to explain WHY they matter
+- he recommends getting multiple evaluators; each additional evaluator up to around 5 adds meaningful insight into the app and can find more "true" problems
+- heuristic evaluation is cheap and fast; doesn't "use up" potential users
+- user testing is more realistic, finds more problems, and allows you to assess other UX qualities besides just usability
+- CM:
+	+ if I were to do this myself, I'd need to have the 10 Heuristics on a single piece of paper with:
+		* the general definition
+		* key bullets breaking that down
+		* examples of common items that violate this heuristic
+	+ After creating the rubric, I could create a spreadsheet as he has in the example with four main boxes:
+		* Description of the issue
+		* System Location 
+		* Heuristics Violated
+		* Severity
+
+### L20: Course Wrap-Up & Next Steps
+
+- If UX has four components, this course has focused on the "Usability" component
+	+ the other three are "Value", "Adoptability", "Desirability"
+- Books:
+	- Don Norman: The Design of Everyday Things
+	- Jeff Johnson: Designing with the Mind in Mind
+	- Steve Krug: Don't Make Me Think
+* Value: Understanding User Needs
+	- no magic solutions
+	- UX research methods
+	- Book: 
+		+ Observing the User Experience
+* Desirability
+	- Emotion Design
+		- Book:
+			+ Don Normal: Emotional Design
+		- Three levels of emotional response
+			+ visceral - fast, primitve
+			+ behavioral - based on use
+			+ reflective - based on associations
++ Aesthetics and Experience
+	* Experience is an "inseparable, meaningful whole"
+	* experience becomes relevant through remembered stories
+	* there's more to experience than product features
+	* recommended article
+		- [User Experience and Experience Design](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/user-experience-and-experience-design)
++ Designing Relationships: Service Design
+	* Book: 
+		- Service Design
+	* products vs relationships
+	* the "customer journey"
+	* multiple "touchpoints"
++ Adopability
+	* accessibility => how easy it for everyone to use
+		- big area, worthy of its own course
+		- even the subfield of web accessibility is big and evolving.
+		- [World Wide Access: Accessible Web Design](http://www.washington.edu/doit/videos/index.php?vid=35)
++ Designing for Humans
+	* understand perception and cofnition
+	* understand design principles for usable systems
+
 
 [back to top](#top)
 
