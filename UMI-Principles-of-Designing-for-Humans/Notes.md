@@ -32,6 +32,7 @@
 	+ [Heuristic #10: Help and Documentation](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l18-heuristic-10-help-and-documentation)
 - [Heuristic Evaluation and Course Wrap-up](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#heuristic-evaluation-and-course-wrap-up)
 	+ [Heuristic Evaluation](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l19-heuristic-evaluation)
+	+ [Course Wrap-up](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l20-course-wrap-up--next-steps)
 
 ## Course Summary and Key Take-aways
 
@@ -539,6 +540,8 @@
 		* System Location 
 		* Heuristics Violated
 		* Severity
+
+[back to top](#top)
 
 ### L20: Course Wrap-Up & Next Steps
 
