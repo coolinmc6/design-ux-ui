@@ -39,7 +39,40 @@
 
 ### Course Summary
 
-### My Key Takeaways
+- The course opens with some information about how humans perceive information and then with how we remember / learn something. This is important because we have our five senses (sight, hearing, touch, smell, taste) but with a website, understanding how we visually perceive something is incredibly important because **most information is conveyed visually**.
+- There are [three stages of perception](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l2-visual-perception-part-2):
+	+ Features (colors, shapes, lines)
+	+ Patterns
+	+ Gestalt Principles (interpreting those patterns as objects)
+		* The Gestalt Princples are also known as the [principles of grouping](https://en.wikipedia.org/wiki/Principles_of_grouping) or *Gestalt laws of grouping*
+		* Here is a good intro article I should take a look at to understand how to use the Gestalt principles: 
+			* [https://www.usertesting.com/blog/gestalt-principles/](https://www.usertesting.com/blog/gestalt-principles/)
+			* [https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1](https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1)
+- A good foundation for understanding the journey from your senses to memory:
+	1. Sensory Register => requires your attention; only a small amount of what **could** be perceived is actually perceived
+	2. Perception => that which is perceived is available for thought, but only **briefly**
+	3. Short-term Memory => your short-term memory can only hold 7 +/- 2 items and not everything is committed to long-term memory
+	4. Long-term Memory => to learn something (i.e. commit to long-term memory), it must be associated with what you already know OR repeated
+- Transferring this knowledge to user experience, there are a couple key points we should remember:
+	+ avoid asking users to memorize stuff
+		* provide menu options and autocomplete
+	+ leverage consistency, standards and best practices from other areas that you **know** they will be know
+		* i.e. Google Sheets/Docs/etc. has same menu bar (mostly) across all apps
+	+ use metaphors to help their understanding (i.e. a shopping cart, trash can, etc.)
+- The [Seven Stages of Action](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l5-seven-stages-of-action) is an interesting framework for understanding how people do things
+- There are a list of [Design Principles](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l7-design-principles) worth looking over. It would probably be useful to go through these again but the [Heuristics for Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l8-heuristics-for-design) should be my immediate focus. **I really think that learning these and understanding examples of each would provide a good foundation to understanding how effective an app works**.
+- Here are the 10 Heuristics:
+	1. [Visibility of system status](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l9-heuristic-1-visibility-of-system-status)
+	1. [match between system and the real world](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l10-heuristic-2-match-between-system-and-real-world)
+	1. [User control and freedom](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l11-heuristic-3-user-control-and-freedom)
+	1. [Consistency and standards](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l12-heuristic-4-consistency-and-standards)
+	1. [Error prevention](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l13-heuristic-5-error-prevention)
+	1. [Recognition rather than recall](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l14-heuristic-6-recognition-over-recall)
+	1. [Flexibility and efficiency of use](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l15-heuristic-7-flexibility-and-efficency-of-use)
+	1. [Aesthetic and minimalist design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l16-heuristic-8-aesthetic-and-minimalist-design)
+	1. [Help users recognize, diagnose and recover from errors](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l17-heuristic-9-error-recovery)
+	1. [Help and documentation](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l18-heuristic-10-help-and-documentation)
+- Lastly, the course ends with an example [Heuristic Evaluation](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md#l19-heuristic-evaluation) that would provide a quick and easy way to evaluate an app or website. 
 
 ### Recommended Resources
 
@@ -127,7 +160,7 @@
 
 [back to top](#top)
 
-### L4: Memory, Part 1
+### L4: Memory, Part 2
 
 - Long Term Memory
 	+ anything remembered for more than a few seconds
