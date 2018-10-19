@@ -5,14 +5,16 @@
 
 ## Table of Contents
 
-- [Course Documents](#)
+- [Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Understanding-User-Needs/Course-Documents)
 - [Course Summary and Key Take-aways](#course-summary-and-key-take-aways)
 	+ [Basic Summary](#course-summary)
 	+ [Most Interesting Parts](#my-key-takeaways)
-- [Introduction and Qualitative Research Overview](#)
-- [Interview Protocols](#)
-- [Interviews, Observations, and Data Extraction](#)
-- [Affinity Walls and Analysis](#)
+- [Introduction and Qualitative Research Overview](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#introduction-and-qualitative-research-overview)
+	+ [Introduction to User Needs Assessment](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l1-introduction-to-user-needs-assessment)
+	+ [Overview of Qualitative Research](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l2-overview-of-qualitative-research)
+- [Interview Protocols](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#interview-protocols)
+- [Interviews, Observations, and Data Extraction](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#interviews-observations-and-data-extraction)
+- [Affinity Walls and Analysis](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#affinity-walls-and-analysis)
 
 ## Course Summary and Key Take-aways
 

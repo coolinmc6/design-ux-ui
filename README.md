@@ -5,7 +5,7 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 |#|Course|Materials|Complete Date|
 |:---:|:---:|:---:|:---:|
 |1|[Introduction to User Experience](https://www.edx.org/course/introduction-to-user-experience)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Intro-to-User-Experience/Course-Documents)|Oct 16, 2018|
-|2|[Understanding User Needs](https://www.edx.org/course/understanding-user-needs)|[Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Understanding-User-Needs/Course-Documents)||
+|2|[Understanding User Needs](https://www.edx.org/course/understanding-user-needs)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Understanding-User-Needs/Course-Documents)||
 |3|[Principles of Designing for Humans](https://www.edx.org/course/principles-of-designing-for-humans)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Principles-of-Designing-for-Humans/Course-Documents)|Oct 19, 2018|
 |4|Evaluating Designs with Users|||
 |5|UX Design: From Concept to Wireframe|||
