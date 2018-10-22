@@ -354,11 +354,27 @@ Thank you – those are all the questions I have for you. If anything else occur
 
 ## Interviews, Observations, and Data Extraction
 
-
-
-
+### Sample Interview
 
 [back to top](#top)
+
+### L7: Tips for Interviewing
+
+[back to top](#top)
+
+### L8: Observing Users
+
+[back to top](#top)
+
+### Sample Think-Aloud Protocol
+
+[back to top](#top)
+
+### L9: Extracting Data from Interview
+
+[back to top](#top)
+
+
 
 ## Affinity Walls and Analysis
 
