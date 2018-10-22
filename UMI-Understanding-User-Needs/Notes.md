@@ -13,6 +13,10 @@
 	+ [Introduction to User Needs Assessment](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l1-introduction-to-user-needs-assessment)
 	+ [Overview of Qualitative Research](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l2-overview-of-qualitative-research)
 - [Interview Protocols](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#interview-protocols)
+	+ [Semi-Structured Interviews](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l4-semi-structured-interviews)
+	+ [Components of an Interview Protocol](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l5-components-of-an-interview-protocol)
+	+ [Good Practices for Interview Protocols](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l6-good-practices-for-interview-protocols)
+	+ [Interview Protocol Template](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#interview-protocol-template)
 - [Interviews, Observations, and Data Extraction](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#interviews-observations-and-data-extraction)
 - [Affinity Walls and Analysis](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#affinity-walls-and-analysis)
 
@@ -152,6 +156,8 @@
 		* mutually convenient time
 		* when participant normally uses the product or service
 
+[back to top](#top)
+
 ### L5: Components of an Interview Protocol
 
 - Components of an Interview Protocol
@@ -209,6 +215,8 @@
 	+ these are guidlines; no hard rules
 	+ most important: interview ethics
 	+ second most important: is your key question being answered?
+
+[back to top](#top)
 
 ### L6: Good Practices for Interview Protocols
 
@@ -274,6 +282,8 @@
 		* guide during interview
 	+ Memorize the overall flow of the protocol
 	+ You will not read protocol questions one after the other
+
+[back to top](#top)
 
 ### Interview Protocol Template
 
