@@ -18,7 +18,12 @@
 	+ [Good Practices for Interview Protocols](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l6-good-practices-for-interview-protocols)
 	+ [Interview Protocol Template](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#interview-protocol-template)
 - [Interviews, Observations, and Data Extraction](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#interviews-observations-and-data-extraction)
+	+ [Tips for Interviewing](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l7-tips-for-interviewing)
+	+ [Observing Users](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l8-observing-users)
+	+ [Extracting Data from Interview](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l9-extracting-data-from-interview)
 - [Affinity Walls and Analysis](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#affinity-walls-and-analysis)
+	+ [Analyzing Qualitative Data](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l10-analyzing-qualitative-data)
+	+ [Affinity Walls](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l11-affinity-walls)
 
 ## Course Summary and Key Take-aways
 

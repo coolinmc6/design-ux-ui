@@ -28,4 +28,3 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 		* [https://www.usertesting.com/blog/gestalt-principles/](https://www.usertesting.com/blog/gestalt-principles/)
 		* [https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1](https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1)
 - Understanding User Needs
-	+ 
