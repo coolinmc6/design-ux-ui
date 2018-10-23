@@ -356,31 +356,153 @@ Thank you – those are all the questions I have for you. If anything else occur
 
 ### Sample Interview
 
+
 [back to top](#top)
 
 ### L7: Tips for Interviewing
+
+- Memorize the overflow / prep for the interview
+	+ participant background
+	+ interview protocol
+- Rapport with Interview
+	+ make them feel comfortable
+	+ do not jump right in
+	+ start with small talk
++ Adopt a Learning Mindset
+	* they are the expert
+	* Observe
+	* Adapt
+	* Listen
+	* **They** are the expert in their experience; you need to understand what they do and how they have tried to solve the problem
++ Follow Interesting Threads
+	* Advanced prep pays off but willing to abandon the script if needed
+	* Ask follow-up questions until satisfied
+	* Listen for unexpected but relevant things
+		- improvise unscripted follow-up questions
++ Note-taking
+	* take notes with pen and paper; devices can create a barrier
+	* print a list of questions with gaps for your notes
++ Write down:
+	* key points in short phrases
+	* things that audio recording can't capture (like facial expressions, physical context)
+	* Follow-up questions
++ Practice Interviewing
+	* maintain conversational tone
+	* keep overarching question in mind
+	* Be curious!
 
 [back to top](#top)
 
 ### L8: Observing Users
 
+- Observation Review
+	+ think aloud protocol
+	+ observation questions
+- Observation starts even before the interview
+- Observation Tips
+	+ Ask participant to perform relevant tasks
+	+ Think Aloud Protocol
+		* what are you doing onw? why are you doing that?
+	+ Take good notes on think aloud protocol
+		* what are the unexpected things?
+			- pauses
+			- missteps / multiple steps
+			- detours
+			- intentional detours
+		* Ask questions if you don't understand the motivation for something
+- Similar to interviews
+	+ maintain conversational tone
+	+ keep overarching question in mind
+	+ be curious
+	+ practice it
+
+
 [back to top](#top)
 
 ### Sample Think-Aloud Protocol
+
+- watched
 
 [back to top](#top)
 
 ### L9: Extracting Data from Interview
 
-[back to top](#top)
+- From Notes to Qualitative Data
+	+ As soon as possible after an interview, write down affinity notes
+	* an affinity note is:
+		- a sticky note
+		- a participant code (type and number: C01, G04, M02)
+		- statement or question
+		- from notes or audio recordings and relevant to the user needs assessment
++ Include....
+	* factural statement
+	* participant quotes
+	* observations, as statements
+	* interpretations
+	* Questions
++ Tips:
+	* make each note understandable on its own
+	* be concrete but concise
+	* one affinity note per minute of interview
++ Interpretations
+	* repeating themes
+	* contradictions or conflicts
+	* key findings
+	* root issues
+	* anything else
++ Good Quotes:
+	* unexpected
+	* representative
++ 
 
+[back to top](#top)
 
 
 ## Affinity Walls and Analysis
 
+### L10: Analyzing Qualitative Data
 
+- The **Secret** to intelligence
+	+ By clustering, sorting, finding patterns, and relating things to each other, you can condense information
+- condensing is understanding
+- understanding is intelligence!
 
+[back to top](#top)
 
+### L11: Affinity Walls
+
+- Affinity Wall Guidelines
+	+ at first, make clusters quickly
+		+ move notes around as you see new patterns
+		+ don't get too attached to clusters
+	+ Aim for clusters of 3-7 notes
+		* break up if more than 7 notes
+		* merge if less than 3 notes
+	+ Writing the next-level notes is the crux:
+		* summarize the knowledge in the cluster
+		* summary should be a full sentence and make sense on its own
+		* balance abstraction and precision
+	+ Stop creating level when summaries become uninformative
 
 
 [back to top](#top)
+
+
+### L12: Variations on User Needs Assessments
+
+- watched
+
+### Conclusion
+
+- watched
+
+
+[back to top](#top)
+
+
+
+
+
+
+
+

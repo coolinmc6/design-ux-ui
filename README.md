@@ -27,3 +27,5 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 	+ Write a brief summary of the Gestalt Principles based on my [notes]() and the articles below. *Why?* These principles appear to be foundational knowledge about how humans perceive things that I could learn once and it would be relevant essentially forever.
 		* [https://www.usertesting.com/blog/gestalt-principles/](https://www.usertesting.com/blog/gestalt-principles/)
 		* [https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1](https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1)
+- Understanding User Needs
+	+ 
