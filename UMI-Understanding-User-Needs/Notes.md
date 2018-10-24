@@ -8,7 +8,6 @@
 - [Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Understanding-User-Needs/Course-Documents)
 - [Course Summary and Key Take-aways](#course-summary-and-key-take-aways)
 	+ [Basic Summary](#course-summary)
-	+ [Most Interesting Parts](#my-key-takeaways)
 - [Introduction and Qualitative Research Overview](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#introduction-and-qualitative-research-overview)
 	+ [Introduction to User Needs Assessment](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l1-introduction-to-user-needs-assessment)
 	+ [Overview of Qualitative Research](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l2-overview-of-qualitative-research)
@@ -29,7 +28,26 @@
 
 ### Course Summary
 
-### My Key Takeaways
+- There are a number of reason you'd do a user needs assessment but it's generally because you want to understand:
+	+ **why** people want to use a product/service
+	+ **how** people actually use product/service
+	+ **see** what people like/dislike about a product/service
+	+ **hear what else** people might want
+- User **needs** can be actual needs, wants, preferences, quirks, etc.
+- Qualitative research is non-numerical, direct interaction with people and context, and not designed to be considered aggregate, large-scale descriptions of user behavior
+- This course focused on [semi-structured interviews](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l4-semi-structured-interviews) with a good chunk feeling very intuitive. 
+- There is a good section on [interview protocols](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l5-components-of-an-interview-protocol) but feels very intuitive. It feels like this information could be condensed into a good checklist / cheat sheet of items to do before an interview.
+- Some of the best tips on conducting an interview:
+	+ Ask open-ended questions to really engage the user
+	+ Don't be leading them to a certain place and don't judge! Users need to feel that the system is being tested, not their intelligence
+	+ Closed-ended questions aren't great
+	+ Overly abstract or generalized (i.e. "what do you normally do when..."); you want to be concrete
+	+ **Be Prepared.** In general, being prepared and understanding who you're interviewing and having your questions ready will go a long way (again, not rocket science but good to remember)
+- Post-interview, it's best to take notes immediately. The idea behind [affinity notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l9-extracting-data-from-interview) and the [affinity wall](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md#l11-affinity-walls) is really cool.
+- The short slide about qualitative data and learning was interesting:
+	+ You can condense information by clustering, sorting, finding patterns, and relating things to each other
+	+ Condensing information *is* understanding
+	+ Understanding *is* intelligence
 
 [back to top](#top)
 
