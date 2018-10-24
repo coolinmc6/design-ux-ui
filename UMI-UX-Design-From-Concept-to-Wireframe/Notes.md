@@ -9,11 +9,28 @@
 - [Course Summary and Key Take-aways](#course-summary-and-key-take-aways)
 	+ [Basic Summary](#course-summary)
 	+ [Most Interesting Parts](#my-key-takeaways)
-- [Course Syllabus and Learning Objectives](#)
+- [Course Syllabus and Learning Objectives](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#course-syllabus-and-learning-objectives)
+- [Introduction to the Design Process](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#introduction-to-the-design-process)
+	+ [What is Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l1-what-is-design)
+	+ [Design Process - An Overview](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l2-design-process---an-overview)
+	+ [Framing Design Problems](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l3-framing-design-problems)
+	+ [Formative Research](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l4-formative-research)
+- [Ideation](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#ideation)
+	+ 
+- [Design Constraints and Making Choices](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#design-constraints-and-making-choices)
+	+ 
 
 ## Course Summary and Key Take-aways
 
 ### Course Summary
+
+- [Framing Design Problems](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l3-framing-design-problems)
+	+ a design frame is what the designer considers important and will focus on when doing the work / solving the design problem
+	+ There are two main items that must be kept in mind:
+		* **Scope**: How big is the problem you are focusing?
+			- is this a complete change of the previous "system" or are you fixing one aspect?
+		* **Design Space**: What can vary in how you are thinking about the problem?
+			- what are the variables that can change per type of user or solution?
 
 ### My Key Takeaways
 
@@ -65,11 +82,34 @@
 ![Design in a nutshell](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/design-in-nutshell.png)
 
 - Design is an iterative process and it is messy! Get comfortable with ambiguity
-- 
 
 [back to top](#top)
 
 ### L3: Framing Design Problems
+
+- **goal:** formulate the problem and understand important constraints a solution needs to satisfy
+- A frame is an active perspective that both describes and perpetually changes the situation
+- Frame describes aspects of the design problem the designer considers to be important and will focus on
+	+ you are trying to learn what's in and what's out
+	+ Weight Loss App example
+		* which will behaviors will target?
+		* Who is the population?
+		* Would this be time-limited or ongoing?
+- **Scope**: How big is the problem oyu are trying to focus on
+	+ Weight Loss App
+		* Affect all behaviors?
+		* Comprehensive weight loss support or just one part of it?
+- **Design Space**: what can vary in how you are thinking about the problem?
+	+ Weight Loss App:
+		* population
+		* level of motivational readiness
+		* weight-loss behaviors
+		* situations where the system is used
+		* types of technology
+- No design problem exists fully formed. A key job a designer is to specify the exact problem that needs to be solved
+	- Problem framing is an **iterative process**
+		- project timeline changes, budget gets cut, designer's understanding of the problem changes
+
 
 [back to top](#top)
 
