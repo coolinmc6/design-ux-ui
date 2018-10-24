@@ -16,9 +16,14 @@
 	+ [Framing Design Problems](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l3-framing-design-problems)
 	+ [Formative Research](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l4-formative-research)
 - [Ideation](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#ideation)
-	+ 
+	+ [Introduction to Ideation](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l5-introdution-to-ideation)
+	+ [Sketching](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l6-sketching)
+	+ [Brainstorming](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l7-brainstorming)
 - [Design Constraints and Making Choices](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#design-constraints-and-making-choices)
-	+ 
+	+ [Personas](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l8-personas)
+	+ [Scenarios](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l9-scenarios)
+	+ [Storyboards](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l10-storyboards)
+	+ [Design Rationale](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l11-design-rationale)
 
 ## Course Summary and Key Take-aways
 
@@ -149,4 +154,9 @@
 [back to top](#top)
 
 ### L11: Design Rationale
+
+[back to top](#top)
+
+
+
 
