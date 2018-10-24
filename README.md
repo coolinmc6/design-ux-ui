@@ -8,7 +8,7 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 |2|[Understanding User Needs](https://www.edx.org/course/understanding-user-needs)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Understanding-User-Needs/Course-Documents)|Oct 24, 2018|
 |3|[Principles of Designing for Humans](https://www.edx.org/course/principles-of-designing-for-humans)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Principles-of-Designing-for-Humans/Course-Documents)|Oct 19, 2018|
 |4|Evaluating Designs with Users|||
-|5|UX Design: From Concept to Wireframe|||
+|5|UX Design: From Concept to Wireframe|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents)||
 |6|UX Design: From Wireframe to Prototype|||
 |7|UX Research Surveys|||
 |8|UX Research at Scale: Analytics and Online Experiments|||

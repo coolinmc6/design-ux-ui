@@ -61,7 +61,9 @@
 
 - Design is not just creative genius; design is a process
 - Design Process (In a Nutshell)
-- **IMAGE**
+
+![Design in a nutshell](design-ux-ui/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/design-in-nutshell.png)
+
 - Design is an iterative process and it is messy! Get comfortable with ambiguity
 - 
 
