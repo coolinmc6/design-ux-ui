@@ -5,7 +5,7 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 |#|Course|Materials|Complete Date|
 |:---:|:---:|:---:|:---:|
 |1|[Introduction to User Experience](https://www.edx.org/course/introduction-to-user-experience)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Intro-to-User-Experience/Course-Documents)|Oct 16, 2018|
-|2|[Understanding User Needs](https://www.edx.org/course/understanding-user-needs)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Understanding-User-Needs/Course-Documents)||
+|2|[Understanding User Needs](https://www.edx.org/course/understanding-user-needs)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Understanding-User-Needs/Course-Documents)|Oct 24, 2018|
 |3|[Principles of Designing for Humans](https://www.edx.org/course/principles-of-designing-for-humans)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Principles-of-Designing-for-Humans/Course-Documents)|Oct 19, 2018|
 |4|Evaluating Designs with Users|||
 |5|UX Design: From Concept to Wireframe|||
@@ -28,3 +28,5 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 		* [https://www.usertesting.com/blog/gestalt-principles/](https://www.usertesting.com/blog/gestalt-principles/)
 		* [https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1](https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1)
 - Understanding User Needs
+	+ Create a checklist / cheatsheet on conducting a good interview (pre-interview prep, in-interview tips, and post-interview analysis). It doesn't have to be long but a good breakdown by each step. **Do this after the task above the user-testing experience.** It sounds like the task above from Intro to User Experience is similar. Why?* I can use this as a general guide forever. I'd also like to have something for employees to keep as a guide to create some minimum standards.
+- 
