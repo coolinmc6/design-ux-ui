@@ -29,4 +29,4 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 		* [https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1](https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1)
 - Understanding User Needs
 	+ Create a checklist / cheatsheet on conducting a good interview (pre-interview prep, in-interview tips, and post-interview analysis). It doesn't have to be long but a good breakdown by each step. **Do this after the task above the user-testing experience.** It sounds like the task above from Intro to User Experience is similar. Why?* I can use this as a general guide forever. I'd also like to have something for employees to keep as a guide to create some minimum standards.
-- 
+

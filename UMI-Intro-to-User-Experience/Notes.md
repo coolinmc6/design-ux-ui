@@ -55,6 +55,8 @@
 	- How do people do things?
 	- How does emotion play a role?
 
+[back to top](#top)
+
 ### Most Interesting Parts
 
 - Understanding the [Components of UX](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#l3-components-of-ux) provides a good baseline but feels very intuitive. The benefit to this list of items is that I won't have to derive it; to just get started, go through those four components (value, usability, desirability, and adoptability) and see how my product does in each one of those.
@@ -67,6 +69,16 @@
 - The [UX Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-8-ux-design-overview) section starts with a few definitions of the word "design" that are clearly trying to get us to think of design beyond just what it looks like but rather **how it works**
 - The UX Design process is also pretty familiar because I've ready many blog posts, articles, books on these things but it's good to see a list and breakdown by "step" in the [process](#design-process)
 - The discussion of [Prototypes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-9-prototypes) and [Sketching](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lecture-10-sketching) are good but also very intuitive. The most interesting part was the ["lateral thinking"](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md#lateral-thinking) suggestion during the Generation phase in sketching.
+
+[back to top](#top)
+
+### Learning Objectives
+
+- Learn about the skills needed for UX research and design
+- Understand how UX researchers discover and assess user needs and assess possible designs
+- Learn how to conduct a micro-usability test
+- Understand how UX designers use sketching and prototyping to develop design concepts
+- Understand how to incorporate a user-centered focus into the design process
 
 [back to top](#top)
 
