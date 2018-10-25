@@ -30,6 +30,12 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 - Understanding User Needs
 	+ Create a checklist / cheatsheet on conducting a good interview (pre-interview prep, in-interview tips, and post-interview analysis). It doesn't have to be long but a good breakdown by each step. **Do this after the task above the user-testing experience.** It sounds like the task above from Intro to User Experience is similar. Why?* I can use this as a general guide forever. I'd also like to have something for employees to keep as a guide to create some minimum standards.
 
+## Links to Explore
+
+[Design Thinking: A Manual for Innovation](https://theblog.adobe.com/design-thinking-a-manual-for-innovation)
+
+[d.school Crash Course](https://dschool.stanford.edu/resources/virtual-crash-course-video)
+
 ## Questions
 
 #### What is the difference between Product Design vs. UX Design?
@@ -59,4 +65,3 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 
 ![General Product Design Process](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/general-product-design-process.png)
 
-[Design Thinking: A Manual for Innovation](https://theblog.adobe.com/design-thinking-a-manual-for-innovation)
