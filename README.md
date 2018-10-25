@@ -30,3 +30,33 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 - Understanding User Needs
 	+ Create a checklist / cheatsheet on conducting a good interview (pre-interview prep, in-interview tips, and post-interview analysis). It doesn't have to be long but a good breakdown by each step. **Do this after the task above the user-testing experience.** It sounds like the task above from Intro to User Experience is similar. Why?* I can use this as a general guide forever. I'd also like to have something for employees to keep as a guide to create some minimum standards.
 
+## Questions
+
+#### What is the difference between Product Design vs. UX Design?
+
+[Product Design vs UX Design: what’s the difference?](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
+
+- Quote: "Design will not be just about users. It will also be about the business. As Product Designers, we must drive product solutions that service the goals of both the users and the company."
+
+[UX design vs. product design: what is the difference?](https://uxdesign.cc/ux-design-verses-product-design-whats-the-difference-577b3eab19c0)
+
+- both use the "Design Thinking Process"
+
+![Design Thinking Process](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/design-thinking-process.jpeg)
+
+[Product Designer VS UX designer：Which One You Prefer to Be?](https://www.mockplus.com/blog/post/product-designer-vs-ux-designer)
+
+- The **Product Designer** handles the overall function and working process of the product. They are the guardians of user needs. 
+- **UX Designers** are responsible for the function of the user interface and user-friendly experience.
+
+[The Evolution of UI/UX Designers Into Product Designers](https://theblog.adobe.com/the-evolution-of-uiux-designers-into-product-designers/)
+
+
+
+![Design Thinking 101](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/design-thinking-101.png)
+
+![Customer Experience Process](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/design-customer-experience-process.png)
+
+![General Product Design Process](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/general-product-design-process.png)
+
+[Design Thinking: A Manual for Innovation](https://theblog.adobe.com/design-thinking-a-manual-for-innovation)
