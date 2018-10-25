@@ -36,6 +36,12 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 
 [d.school Crash Course](https://dschool.stanford.edu/resources/virtual-crash-course-video)
 
+[How to Choose a User Research Method](https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84)
+
+[Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)
+
+
+
 ## Questions
 
 #### What is the difference between Product Design vs. UX Design?
@@ -65,3 +71,6 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 
 ![General Product Design Process](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/general-product-design-process.png)
 
+#### What is the difference between a Product Manager vs. UX Designer?
+
+[Product Manager and UX Designer – What’s the Difference?](https://www.uxpin.com/studio/blog/product-manager-and-ux-designer-whats-the-difference/)
