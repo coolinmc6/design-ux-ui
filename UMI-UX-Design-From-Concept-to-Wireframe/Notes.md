@@ -105,6 +105,7 @@
 		* Affect all behaviors?
 		* Comprehensive weight loss support or just one part of it?
 - **Design Space**: what can vary in how you are thinking about the problem?
+	+ More narrowly defined: the **design space** is the range of alternative ways that a design solution can work. **Design space** refers to the dimensions on which a design solution can vary: size, complexity, intended population, etc. Designers use the notion of the design space to articulate classes of design solutions they should consider and the tradeoffs they should analyze.
 	+ Weight Loss App:
 		* population
 		* level of motivational readiness
@@ -120,17 +121,110 @@
 
 ### L4: Formative Research
 
+- **Goals:* 
+	+ understand the existing context and domain
+	+ identify targets for design improvements
+- Methods: formal and informal
+	+ Formal Methods
+		* interviews
+		* surveys
+		* participatory design grouops
+		* systematic observations
+		* shadowing
+		* task analytsis
+		* process mapping
+		* etc.
+	+ Formal Methods are:
+		* effective and data-rich
+		* slow
+	+ Informal Methods
+		* informal observations
+		* targeted conversations with key stakeholders
+		* Foraging on information about the domain
+		* Asking social network for bug lists
+	+ Informal methods
+		* tend to be quick, cheap, but you can miss important aspects of the problem (unless you are very good)
+- Whichever trajectory
+	+ collect a lot of stuff
+	+ put your materials together
+	+ immerse yourself in them
+- Finding Inspiration
+	+ "Nothing is original. Steal from anywhere that resonates with inspiration or fuels your imagination."
+	+ take notes and sketch
+- Bug List
+	+ find examples of other technologies that address your problem
+	+ Try them
+	+ Compile list of frictions and frustrations that you discover in those tools
+	+ Come up with ways of addressing those limitations
+- Other Sources of Inspiration
+	+ Tech that solves a related problem
+	+ Non-tech solutions for your problem
+	+ Your population's context, habits, culture, infrastructure
+	+ Elegant artefacts and processes
+	+ Anything else that strikes your fancy!
+
+[back to top](#top)
+
+### Quiz 1:
+
+- Design is "compromise":
+	+ The issue is not that designers do low-quality work. It’s that most real-world design problems are complex enough that they often involve conflicting constraints — constraints that pull the design solution in different directions. A designer has to balance those conflicting demands, and this balancing usually means that some aspects of the design end up being done in a way that the designer wouldn’t have chosen if the constraints were not present.
+
+
 [back to top](#top)
 
 ## Ideation
 
-[back to top](#top)
-
 ### L5: Introdution to Ideation
+
+- **Goal:** Generate a lot of concepts from which you can generate a high-quality solution
+	+ large body of evidence showing that you if you start with a large set of different ideas, the final product is better
+- Basic Rules of Ideation
+	+ Make ideas cheap!	
+		* generate ideas as quickly as possible which ALLOWS us to quickly throw them away as well
+		* fill in just enough details to get a sense of the idea
+	+ Generate both variations of an idea and very different ideas
+	+ Don't worry about idea quality or feasibility
+- **Ideation Outcome:** dozens or even hundreds of ideas
+- Tools for Ideation
+	+ sketching
+	+ Brainstorming
+	+ Mindmapping
+		* concept is put in center of sheet
+	+ Timed idea generation (generate as many ideas as possible)
+	+ Generate a minimum of X ideas (i.e. 40)
+	+ The goal of this is to visualize and think about the problem in many different ways and you can use a number of tools to do that
 
 [back to top](#top)
 
 ### L6: Sketching
+
+- "Sketching is not only the archetypal activity of design. It has been thus for centuries."
+- Sketching is about generating and communicating ideas
+- Sketch Attributes
+	+ **quick**
+	+ timely
+	+ **inexpensive**
+	+ disposable
+	+ plentiful
+	+ clear vocabulary
+	+ distinct gesture
+	+ **minimal details**
+	+ appropriate level of refinement
+	+ suggest and explore
+	+ ambiguity
+- Sketches don't have to be beautiful to be useful
+- Sketch vs. Prototype Summary:
+
+![Sketch vs. Prototype Summary](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/sketching-vs-prototype.png)
+
+- There are many different types of sketches
+	+ some are just for communicating sketch
+	+ **thinking sketch generate large number of ideas**
+	+ technical sketches are used in engineering
+	+ Presentation sketches have more polish
+	+ Emotive sketch are designed to be later stages of design
+- Recommends getting a design notebook
 
 [back to top](#top)
 
