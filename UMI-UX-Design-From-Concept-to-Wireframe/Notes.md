@@ -220,7 +220,7 @@
 
 - There are many different types of sketches
 	+ some are just for communicating sketch
-	+ **thinking sketch generate large number of ideas**
+	+ **thinking sketches generate large numbers of ideas**
 	+ technical sketches are used in engineering
 	+ Presentation sketches have more polish
 	+ Emotive sketch are designed to be later stages of design
@@ -230,24 +230,126 @@
 
 ### L7: Brainstorming
 
+- IDEO Rules for Brainstorming
+	+ Have a clear problem statement
+	+ Have clear rules (i.e. go for quantity)
+	+ Number the ideas
+	+ Build on ideas
+	+ Make ideas visible
+	+ Get physical (sketch, mind-map, make, act out)
+- Traps to Avoid
+	+ criticizing ideas; 
+		+ Rule: don't criticize ideas, every idea is valid
+	+ Taking turns (or trying to make the process less messy)
+		* Rule: let it be a bit chaotic, have people jump in when they have an idea
+	+ Getting sucked into developing an idea in depth
+		* Rule: don't go too far down one idea
+	+ Going too far on tangent
+		* Rule: don't go off-topic / off-scope
+	+ Stopping to do research
+		* Rule: keep going for more ideas
+- How to Keep Moving
+	+ Brainstorm solutions to pain points
+	+ Determine steps in process, brainstorm on those
+	+ Identify loci for innovation
+	+ Identify solutions for different users
+	+ Have a facilitator
+- Brainstorming Facilitator
+	+ Make sure people don't go on excessive tangents
+	+ Notice when session participants feel stuck or have hit a dead end, redirect session by bringing up a new topic
+	+ To keep in check the critiquing of ideas
+	+ Prevent participants from diving too deeply into the ideas
+- Rapid Brainstorming with Structure Example
+	+ I. Brainstorm a list of 10 objects associated with snow and cold weather
+		* write these objects along the top of a large piece of paper
+	+ II. Brainstorm 10 controls or techniques for controlling those objects
+		* Write these objects along the left side of the paper
+	+ Populate as much of the matrix as you can in 10 minutes
+	+ Don't worry about whether the idea is good or not
+- Reward yourself after brainstorming; it's very hard
+
 [back to top](#top)
 
 ## Design Constraints and Making Choices
 
-
 ### L8: Personas
+
+- The purpose of personas is to build concrete image of users that designers can design toward
+- They are based on all the research, skecthing, conversations, etc.
+- Personas are fictional characters that represent key types of technology's intended users that were discovered through formative work.
+- Key Characteristics of Personas
+	+ Based on data
+		* they are based on formative research
+	+ Embody goals, traits, behaviors and context that could influence if and how the technology is used
+	+ Represent distinc classes of intended users
+- Persona Example
+	+ Picture
+	+ Demographics: age, occupation, location, life stage (married? children?)
+	+ Goals and Motivators
+		+ goals related to technology and motivators the could be leveraged or act as barriers
+		* career-oriented? being a parent? novelty (unique about her), etc.
+	+ Behaviors and Constraints
+		* routines an dother behaviors (e.g. work practices) that create opportunities or barriers for technology
+		* weather? access to technology? personal traits (i.e. need structure / routine), hectic schedule?
+	+ Context
+		* living and working environments and other aspects of physical and social context that may affect technology use
+- You would be constantly checking your design ideas to ask: would this work for this Mary? Would this work for John?
+- Benefits of Personas
+	+ personalize and summarize a lot of data
+	+ Provide a mental shortcut for design considerations
+	+ Allow discussion of and agreement on who intended users are
+	+ Easy to understand by non-designers
+	+ Help check tendencies to design for oneself or the "elastic user"
+- Some final considerations
+	+ personas should feel "real" - they should accurately summarize available data
+	+ They should focus on common rather than idiosyncratic traits/characteristics
+	+ Content should be relevant
+		* family situation might not be relevant for design of a workplace technology	
 
 [back to top](#top)
 
 ### L9: Scenarios
 
+- Scenarios are short stories about specific users who are using technology being designed to accomplish specific goals in a specific context
+- Scenarios bridge findings about user needs and ideas about how a technology may support those needs
+- Why use scenarios?
+	+ support reflection during the design process
+	+ open-ended and easily revised
+	+ anchor design discussion
+- Elements of a Scenario:
+	+ **Setting**: situation (state of the system, context of use) in which activity occurs
+	+ **Agent**(s): people performing the activity described in the scenario
+	+ **Goals**: objectives agents are trying to accomplish
+	+ **Actions**: activities that agents do to accomplish their goals
+	+ **Events**: things that happen to users while doing the activities in the scenario
+- Types of Scenarios
+	+ problem scenarios: describe features of the current situation
+		* the users' current problem and what they are trying to accomplish
+	+ goal or task-based scenarios: what the user wants to do
+	+ activity scenarios: transformt he current practice into new design features
+	+ full scale task scenarios: steps to accomplish a task
+	+ information scenarios: how users perceive, interpret and make sense of information
+	+ interaction scenarios: physical actions and system responses that respond to users' tasks
+	+ When to use
+		* problem scenarios are typically done first to understand the problem they are trying to sovle
+- Some final considerations
+	+ you don't need to be a great writer; provide enough detail to understand the scenario
+	+ scenarios should be quick; more rough scenarios
+	+ scenarios are process artifacts. Do only as much as is helpful
+	+ scenarios can help uncover unwanted technology effects
+
+
 [back to top](#top)
 
 ### L10: Storyboards
 
+
+
 [back to top](#top)
 
 ### L11: Design Rationale
+
+
 
 [back to top](#top)
 
