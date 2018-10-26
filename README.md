@@ -11,7 +11,7 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 |5|[UX Design: From Concept to Wireframe](https://www.edx.org/course/ux-design-from-concept-to-wireframe)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents)|Oct 26, 2018|
 |6|[UX Design: From Wireframe to Prototype](https://www.edx.org/course/ux-design-from-wireframe-to-prototype)|||
 |7|[UX Research Surveys](https://www.edx.org/course/ux-research-surveys)|||
-|8|[UX Research at Scale: Analytics and Online Experiments](UX Research at Scale: Analytics and Online Experiments)|||
+|8|[UX Research at Scale: Analytics and Online Experiments](https://www.edx.org/course/ux-research-at-scale-analytics-and-online-experiments)|||
 |9|[UX (User Experience) Capstone](https://www.edx.org/course/ux-user-experience-capstone-michiganx-ux509x)|||
 
 
