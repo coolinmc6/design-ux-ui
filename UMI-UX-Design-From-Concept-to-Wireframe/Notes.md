@@ -119,10 +119,10 @@
 - **Design Space**: what can vary in how you are thinking about the problem?
 	+ More narrowly defined: 
 	
-> the **design space** is the range of alternative ways that a design solution can work. **Design space** refers to the dimensions on which a design solution can vary: size, complexity, intended population, etc. 
+> the **Design Space** is the range of alternative ways that a design solution can work. **Design space** refers to the dimensions on which a design solution can vary: size, complexity, intended population, etc. 
 
 
-	- Designers use the notion of the design space to articulate classes of design solutions they should consider and the tradeoffs they should analyze.
+- Designers use the notion of the design space to articulate classes of design solutions they should consider and the tradeoffs they should analyze.
 	+ Weight Loss App:
 		* population
 		* level of motivational readiness
