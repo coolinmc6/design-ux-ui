@@ -281,7 +281,7 @@
 	+ Based on data
 		* they are based on formative research
 	+ Embody goals, traits, behaviors and context that could influence if and how the technology is used
-	+ Represent distinc classes of intended users
+	+ Represent distinct classes of intended users
 - Persona Example
 	+ Picture
 	+ Demographics: age, occupation, location, life stage (married? children?)
@@ -343,16 +343,65 @@
 
 ### L10: Storyboards
 
-
+- A storyboard is a series of sketches that visually conveys how a user engages in an activity that involves the technology that is being developed.
+- Why storyboards (if you have scenarios)?
+	+ they help you think more deeply about:
+		* environments where the system is used
+		* physical constraints
+		* user's motivation and emotion
+		* relationships among multiple people
+- Elements of a Storyboard
+	+ Zoom: how wide/narrow is the focus of the frame?
+	+ Angle: from whose point of view is the content in the frame? User's? Observer's?
+	+ Detail: what is the frame focused on?
+	+ Emotion: what emotion is the user expressing?
+	+ Setting: Where does the action take place?
+- Storyboarding considerations
+	+ How many panels are needed?
+	+ What interactions will be represented?
+	+ How will time be represented?
+	+ How will the user ("character") fit?
+	+ What text will be used?
+- Some final thoughts
+	+ You don't need to be a great artist to draw useful storboards
+	+ storyboarding quickly allows you create more storyboards
+	+ storyboards most helpful for conveying physical environment, emotion, and relationships
+	+ Play to your strengths - often either a scenario OR a storyboard will work
 
 [back to top](#top)
 
 ### L11: Design Rationale
 
-
+- Design rationale is articulation and analysis of tradeoffs of different alternatives to guide design
+- Goals: to understand the design options, their pros and cons, and to make principled decisions about which design options to pursue
+- Questions, Options, Criteria
+	+ A feature is represented by multiple possible options which answer a particular question
+	+ Criteria help articulate their tradeoffs and guide the choice of which option(s) to go with
+- Questions:
+	+ provide structure to the design space
+	+ Help uncover and define alternatives
+- Options
+	+ Different potential design answers to the same question
+		* e.g. How should consumed food be entered into the food log?
+- Criteria
+	+ Required and desirable properties the design should satisfy
+	+ Differ in importance and generality
+	+ Help determine reasons for decisions
+- Sources of Criteria
+	+ Formative work with target users
+	+ Usability broadly construed
+		* integration with daily routines, privacy, social acceptability, user expectations, etc.
+	+ Previous studies
+	+ Behaviorial studies
+	+ Requirements from other parts of the design
+- Things to Consider
+	+ There might not be one clear answer
+	+ It's important to know the most important criteria
+	+ A design decision can affect many other aspects of the project
+	+ Empirical data (from surveys, focus groups, small studies) can inform design decisions
+- SUmmary
+	+ deciding which option to pursue is a key design activity
+	+ design decisions need to be intentional and reasoned
+	+ QOC (Question-Option-Criteria) enables designers to make decisions in a systematic way
 
 [back to top](#top)
-
-
-
-
