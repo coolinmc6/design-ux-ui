@@ -7,12 +7,12 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 |1|[Introduction to User Experience](https://www.edx.org/course/introduction-to-user-experience)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Intro-to-User-Experience/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Intro-to-User-Experience/Course-Documents)|Oct 16, 2018|
 |2|[Understanding User Needs](https://www.edx.org/course/understanding-user-needs)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Understanding-User-Needs/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Understanding-User-Needs/Course-Documents)|Oct 24, 2018|
 |3|[Principles of Designing for Humans](https://www.edx.org/course/principles-of-designing-for-humans)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-Principles-of-Designing-for-Humans/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-Principles-of-Designing-for-Humans/Course-Documents)|Oct 19, 2018|
-|4|Evaluating Designs with Users|||
-|5|UX Design: From Concept to Wireframe|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents)||
-|6|UX Design: From Wireframe to Prototype|||
-|7|UX Research Surveys|||
-|8|UX Research at Scale: Analytics and Online Experiments|||
-|9|UX (User Experience) Capstone|||
+|4|[Evaluating Designs with Users](https://www.edx.org/course/evaluating-designs-with-users)|||
+|5|[UX Design: From Concept to Wireframe](https://www.edx.org/course/ux-design-from-concept-to-wireframe)|[My Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md)<br>[Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents)|Oct 26, 2018|
+|6|[UX Design: From Wireframe to Prototype](https://www.edx.org/course/ux-design-from-wireframe-to-prototype)|||
+|7|[UX Research Surveys](https://www.edx.org/course/ux-research-surveys)|||
+|8|[UX Research at Scale: Analytics and Online Experiments](UX Research at Scale: Analytics and Online Experiments)|||
+|9|[UX (User Experience) Capstone](https://www.edx.org/course/ux-user-experience-capstone-michiganx-ux509x)|||
 
 
 ## Follow-up Work To Do
@@ -29,6 +29,9 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 		* [https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1](https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1)
 - Understanding User Needs
 	+ Create a checklist / cheatsheet on conducting a good interview (pre-interview prep, in-interview tips, and post-interview analysis). It doesn't have to be long but a good breakdown by each step. **Do this after the task above the user-testing experience.** It sounds like the task above from Intro to User Experience is similar. Why?* I can use this as a general guide forever. I'd also like to have something for employees to keep as a guide to create some minimum standards.
+- UX Design: From Concept to Wireframe
+	+ Create a Toolkit based on the [four main parts of design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l2-design-process---an-overview). Describe each of the main parts and how to perform them effectively.
+
 
 ## Links to Explore
 
