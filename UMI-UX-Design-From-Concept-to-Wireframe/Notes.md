@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [Course Documents](#)
+- [Course Documents](https://github.com/coolinmc6/design-ux-ui/tree/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents)
 - [Course Summary and Key Take-aways](#course-summary-and-key-take-aways)
 	+ [Basic Summary](#course-summary)
 	+ [Most Interesting Parts](#my-key-takeaways)
@@ -29,6 +29,14 @@
 
 ### Course Summary
 
+- The course opens with several definitions of design highlighting one of biggest misconceptions about design that it is NOT just what it looks like. There are several [design quotes](#design-quotes) worth taking a look at
+- There are three main parts of designing anything that you must understand:
+	+ Purpose: what is the function of the object?
+	+ Context: in what situations will it be used?
+	+ Constraints: what determines how this thing can be made and used?
+- I also really like the [core design skills](#core-design-skills) as a good framework for what a designer should be able to do
+	+ **TASK:** create a toolkit around these skills. What tools have I learned (i.e. brainstorming, sketching, etc.) that can help in each of these? Lecture 2 has a great breakdown of those items [here](#design-in-a-nutshell)
+- Lecture 2 shows all those items (pretty much as I want it per the task above) and reiterates a lesson I've heard in all of these lectures is that **design is iterative**. It is messy and ambiguous and you have to get used to that
 - [Framing Design Problems](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l3-framing-design-problems)
 	+ a design frame is what the designer considers important and will focus on when doing the work / solving the design problem
 	+ There are two main items that must be kept in mind:
@@ -36,8 +44,10 @@
 			- is this a complete change of the previous "system" or are you fixing one aspect?
 		* **Design Space**: What can vary in how you are thinking about the problem?
 			- what are the variables that can change per type of user or solution?
-
-### My Key Takeaways
+- [Formative Research](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l4-formative-research) discusses how to research. It's another good list of **all** the methods used to learn about user needs, both formal and informal.
+- The [Ideation](#l5-introdution-to-ideation) lecture had a good explanation and introduction to the main methods of coming up with ideas. The notes on [sketching](#l6-sketching) were good and probably something I should do more but I really liked seeing IDEO's [Rules for Brainstorming](#rules-for-brainstorming) and should keep them in mind for this toolkit
+- I've read about [Personas](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l8-personas) and I would probably benefit from re-reading my notes on this. They make sense on paper but would like to do more with them.
+- [Scenarios](#l9-scenarios) and [Storyboards](#l10-storyboards) are different means to the same end. Storyboards provide a bit more physical context and might paint a fuller picture but it sounds like only one or the other is employed in the design process, not both.
 
 [back to top](#top)
 
@@ -61,14 +71,14 @@
 	+ don't have a right or wrong solution
 	+ are context-dependent
 	+ Don't have a clear test for solutions
-- "Design is how it works" - Steve Jobs 
+- <a name="design-quotes"></a>"Design is how it works" - Steve Jobs 
 - "Design is a plan for arranging elements in such a way as to best accomplish a particular purpose." - Charles Eames
 - **Purpose:** what is the function of this object?
 - "...every design problems begins with an effort to achieve fitness between two entities: the form in question and its context" - Christopher Alexander
 - **Context:** in what situations does this thing intend to be used?
 - **Constraints:** what determines how this thing can be made and used?
 - Design is about creating things that fulfill their purpose well while adhering to constraints
-- Core design skills
+- <a name="core-design-skills">Core design skills</a>
 	+ to frame, or reframe, the problem and the objective
 	+ to create and envision alternatives
 	+ to select from those alternatives
@@ -84,7 +94,8 @@
 - Design is not just creative genius; design is a process
 - Design Process (In a Nutshell)
 
-![Design in a nutshell](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/design-in-nutshell.png)
+<a name="design-in-a-nutshell">
+![Design in a nutshell](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Course-Documents/design-in-nutshell.png)</a>
 
 - Design is an iterative process and it is messy! Get comfortable with ambiguity
 
@@ -100,12 +111,17 @@
 		* which will behaviors will target?
 		* Who is the population?
 		* Would this be time-limited or ongoing?
-- **Scope**: How big is the problem oyu are trying to focus on
+- **Scope**: How big is the problem you are trying to focus on?
 	+ Weight Loss App
 		* Affect all behaviors?
 		* Comprehensive weight loss support or just one part of it?
 - **Design Space**: what can vary in how you are thinking about the problem?
-	+ More narrowly defined: the **design space** is the range of alternative ways that a design solution can work. **Design space** refers to the dimensions on which a design solution can vary: size, complexity, intended population, etc. Designers use the notion of the design space to articulate classes of design solutions they should consider and the tradeoffs they should analyze.
+	+ More narrowly defined: 
+	
+> the **design space** is the range of alternative ways that a design solution can work. **Design space** refers to the dimensions on which a design solution can vary: size, complexity, intended population, etc. 
+
+
+	- Designers use the notion of the design space to articulate classes of design solutions they should consider and the tradeoffs they should analyze.
 	+ Weight Loss App:
 		* population
 		* level of motivational readiness
@@ -121,7 +137,7 @@
 
 ### L4: Formative Research
 
-- **Goals:* 
+- **Goals:** 
 	+ understand the existing context and domain
 	+ identify targets for design improvements
 - Methods: formal and informal
@@ -230,7 +246,7 @@
 
 ### L7: Brainstorming
 
-- IDEO Rules for Brainstorming
+- <a name="rules-for-brainstorming">IDEO Rules for Brainstorming</a>
 	+ Have a clear problem statement
 	+ Have clear rules (i.e. go for quantity)
 	+ Number the ideas
