@@ -34,9 +34,14 @@
 
 ### L1: Course Introduction
 
+- Prototyping can be wireframes, lo-fi prototypes, mock-ups, mid-fi prototypes
+- Prototyping translates findings from formative work into concrete designs that can be tested, revised, and refined prior to implementation of the final system
+
 [back to top](#top)
 
 ### L2: Elements of User Interaction: Data Input
+
+
 
 [back to top](#top)
 
