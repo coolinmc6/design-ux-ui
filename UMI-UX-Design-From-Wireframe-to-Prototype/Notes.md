@@ -10,6 +10,18 @@
 	+ [Basic Summary](#course-summary)
 	+ [Most Interesting Parts](#my-key-takeaways)
 - [Course Syllabus](#course-syllabus-and-learning-objectives)
+- [Building Blocks of User Interaction](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#building-blocks-of-user-interaction)
+	+ [Course Introduction](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#l1-course-introduction)
+	+ [Elements of User Interaction: Data Input](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#l2-elements-of-user-interaction-data-input)
+	+ [Elements of User Interaction: Output, State, and Mode](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#l3-elements-of-user-interaction-output-state-and-mode)
+	+ [Introduction to Prototyping](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#l4-introduction-to-prototyping)
+- [Low to Hi-Fidelity Prototyping](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#low-to-hi-fidelity-prototyping)
+	+ [Wireframes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#l5-wireframes)
+	+ [Low-Fidelity Interactive Prototypes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#l6-low-fidelity-interactive-prototypes)
+	+ [Testing Lo-Fi Prototypes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#l7-testing-lo-fi-prototypes)
+	+ [Adding Realism to Prototypes](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#l8-adding-realism-to-prototypes)
+- [Conceptual Issues in Prototyping and Design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#conceptual-issues-in-prototyping-and-design)
+	+ [Key Design Concepts](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Wireframe-to-Prototype/Notes.md#l9-key-design-concepts)
 
 ## Course Summary and Key Take-aways
 
