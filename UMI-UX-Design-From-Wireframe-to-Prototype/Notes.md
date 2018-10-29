@@ -41,21 +41,117 @@
 
 ### L2: Elements of User Interaction: Data Input
 
-
+- Input: data that needs to be entered into the program to enable it to perform desired tasks
+- Two types of input:
+	+ user-entered input
+		* GUI elements => buttons, icons, menus, switches
+		* Self-report data => free-text, structured forms, voice input, taking a picture
+	+ passive input
+		* sensor readings => location, camera, microphone, accelerometer
+		* Data from other applications => calendar, pictures, health data
+		* Information from internet => web app data (FitBit, Yelp, etc.), Weather, RSS feeds
+- Input Design Considerations
+	+ what granularity of data is needed?
+	+ When / how often is the data needed?
+	+ In what state is the user when input is needed? (Driving? loud environment?)
+	+ what is the value vs. the burden of obtaining the data
+- Consequences of Input Design
+	+ format, granularity, and frequency of input set limits on what application can do
+	+ User experience greatly affected by input design
 
 [back to top](#top)
 
 ### L3: Elements of User Interaction: Output, State, and Mode
 
+- Output: information that the system presents to the user in order to accomplish its indended funciton
+- Output structure: the format in which it is presented
+- Output content: what information is presented
+- Output Structure
+	+ Modality
+		* visual (screen-based, ambient)
+		* Audio
+		* Haptic
+	+ Format
+		* Number
+		* text
+		* list
+		* graph
+		* push notification
+	+ Location
+		* in-app
+		* wearable
+		* phone lock screen
+- Output Design Considerations
+	+ What exactly does the user need to know to perform the task?
+	+ When/how often will the user interact with the information?
+	+ In what state will the user be when presented with the information?
+	+ What is the user's current knowledge base?
+- State: current values of system inputs and the set of rules that determine what kind of output the system will produce
+- Mode: element of state, usually user-controllable, that consistently determines how information is presented
+	+ sustem-wide modes: ringer on/off, airplane mode, do not disturb, night shift
+- Summary
+	+ UX design involves designing inputs, outputs, and rules that translate inputs to desired outputs
+	+ Design of both inputs and outputs must consider when, where, and how user will need to interact with the system
+	+ Visibility of state help users understand why the system behaves the way it does
+
+
 [back to top](#top)
 
 ### L4: Introduction to Prototyping
+
+- Interaction design prototype: a representation of a design, made before the final solution exists
+- Why Prototype?
+	+ you often don't know exactly how the system should work
+	+ engineering and software development are expensive and time-consuming
+- Prototyping enables testing of and receiving feedback on:
+	+ overall design concepts
+	+ functionality of different components of a system
+	+ user interactions
+	+ layouts
+	+ fine-grain design details like fonts and color schemes
+- Each protoype is intended to answer one or more questions to help designers make decisions needed to advance their design
+- Types of Prototype
+	+ storyboard
+	+ sketch
+	+ wireframe - visual representation of individual screens of the system
+	+ interactive prototype - captures multiple states of a design, transitions among them
+- Prototype Fidelity
+	+ more polished prototypes make users feel like it's already set in stone and that they are commenting on smaller things like font sizes, colors, etc.
+- Prototyping maximizes the number of times you get to revise and refine your design before committing to code
 
 [back to top](#top)
 
 ## Low to Hi-Fidelity Prototyping
 
 ### L5: Wireframes
+
+- Wireframe: a visual representation of the screens of an interactive application that shows layout, types of information that are displayed, and elements of pointer-based navigation
+- Questions Wireframes can Answer
+	+ Do screens capture right chunks of system functionality?
+	+ Are the components of a wireframe the right things to have on a single screen?
+	+ Does the screen capture the right way those components should be presented to the user?
+	+ Does the overall layout of components make sense?
+	+ Do screens provide the right navigational elements?
+- Questions Wireframes Do Not Answer
+	+ What is the state required to generate this output?
+	+ How should content be ordered?
+	+ How does the user transition among multiple screens?
+	+ What is the right visual design for the screen?
+	+ What non-visual output is the system producing?
+- How to Wireframe
+	+ sketching on pen and paper
+	+ Desktop and Web Apps
+		* Balsamiq
+- When to Create Wireframes?
+	+ When the designer understands a chunk of functionality and wants to get feedback
+	+ When there are several ways somethign can be presented to users and the designer needs to choose among them
+	+ When developers need to start planning system backend
+- Summary
+	+ wireframes are basic building blocks of UX prototypes
+	+ they can test early concepts of functionality, rpesentation of interactive components, and layout
+	+ They support gathering of feedback before full system has been thought through
+	+ They are fast to create and cheap to discard
+- 
 
 [back to top](#top)
 
