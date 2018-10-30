@@ -50,9 +50,9 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 |#|Course|Materials|Complete Date|
 |:---:|:---:|:---:|:---:|
-|1|[DESIGN RULES](https://www.udemy.com/design-rules/)|||
-|2|[User Experience Design Fundamentals](https://www.udemy.com/user-experience-design-fundamentals/)|||
-|3|[UX & Web Design Master Course: Strategy, Design, Development](https://www.udemy.com/ux-web-design-master-course-strategy-design-development/)|||
+|1|[DESIGN RULES](https://www.udemy.com/design-rules/)|[Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/Udemy-DESIGN-RULES/Notes.md)||
+|2|[User Experience Design Fundamentals](https://www.udemy.com/user-experience-design-fundamentals/)|[Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/Udemy-UX-Design-Fundamentals/Notes.md)||
+|3|[UX & Web Design Master Course: Strategy, Design, Development](https://www.udemy.com/ux-web-design-master-course-strategy-design-development/)|[Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/Udemy-UX-Web-Design-Master-Course/Notes.md)||
 
 
 
