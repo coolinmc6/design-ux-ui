@@ -1,4 +1,4 @@
-[Back to Design-UX-UI Home](https://github.com/coolinmc6/design-ux-ui)
+[Design-UX-UI Home](https://github.com/coolinmc6/design-ux-ui)
 
 <a name='top'></a>
 # Introduction to User Experience
