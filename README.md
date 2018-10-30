@@ -1,6 +1,18 @@
 # README
 
-These are my notes on UX (user experience) Research and Design. Courses are based on the EdX Micro Masters program [User Experience (UX) Research and Design](https://www.edx.org/micromasters/michiganx-user-experience-ux-research-and-design) by the University of Michigan. These are the courses I plan to complete:
+These are my notes on UX (user experience) Research and Design courses, articles, books, and other resources related to UX. There are a couple main areas:
+
+- [University of Michigan MicroMasters courses](#umi-micromasters)
+- [Udemy Courses](#udemy-courses)
+
+
+<a name="umi-micromasters"></a>
+
+## University of Michigan MicroMasters courses
+
+Courses are based on the EdX Micro Masters program [User Experience (UX) Research and Design](https://www.edx.org/micromasters/michiganx-user-experience-ux-research-and-design) by the University of Michigan. These are the courses I plan to complete:
+
+
 
 |#|Course|Materials|Complete Date|
 |:---:|:---:|:---:|:---:|
@@ -15,7 +27,7 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 |9|[UX (User Experience) Capstone](https://www.edx.org/course/ux-user-experience-capstone-michiganx-ux509x)|||
 
 
-## Follow-up Work To Do
+### Follow-up Work To Do
 
 - Introduction to User Experience
 	+ Write down the four components of UX and get the main questions from the slide deck as to what each is trying to solve/account for. *Why?* I think this will give me a good foundation or frame for everything that UX is. Even if it's primitive, this can be the best substitute for actual "first principles" in UX.
@@ -31,6 +43,17 @@ These are my notes on UX (user experience) Research and Design. Courses are base
 	+ Create a checklist / cheatsheet on conducting a good interview (pre-interview prep, in-interview tips, and post-interview analysis). It doesn't have to be long but a good breakdown by each step. **Do this after the task above the user-testing experience.** It sounds like the task above from Intro to User Experience is similar. Why?* I can use this as a general guide forever. I'd also like to have something for employees to keep as a guide to create some minimum standards.
 - UX Design: From Concept to Wireframe
 	+ Create a Toolkit based on the [four main parts of design](https://github.com/coolinmc6/design-ux-ui/blob/master/UMI-UX-Design-From-Concept-to-Wireframe/Notes.md#l2-design-process---an-overview). Describe each of the main parts and how to perform them effectively.
+
+<a name="umi-micromasters"></a>
+
+## Udemy Courses
+
+|#|Course|Materials|Complete Date|
+|:---:|:---:|:---:|:---:|
+|1|[DESIGN RULES](https://www.udemy.com/design-rules/)|||
+|2|[User Experience Design Fundamentals](https://www.udemy.com/user-experience-design-fundamentals/)|||
+|3|[UX & Web Design Master Course: Strategy, Design, Development](https://www.udemy.com/ux-web-design-master-course-strategy-design-development/)|||
+
 
 
 ## Links to Explore
