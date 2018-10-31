@@ -58,14 +58,21 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 ## Links to Explore
 
-[Design Thinking: A Manual for Innovation](https://theblog.adobe.com/design-thinking-a-manual-for-innovation)
+### Building a Product
 
-[d.school Crash Course](https://dschool.stanford.edu/resources/virtual-crash-course-video)
+- [The Complete Guide to the UX Product Design Process](https://www.dtelepathy.com/blog/design/the-complete-product-design-process)
+- GV Design Sprints
+	+ [The Ultimate (and Free) Tool for Facilitating Design Sprints](https://www.dtelepathy.com/blog/design/the-ultimate-and-free-tool-for-facilitating-design-sprints?rlid=24155)
 
-[How to Choose a User Research Method](https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84)
+### Learning Design
 
-[Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)
+- [Design Thinking: A Manual for Innovation](https://theblog.adobe.com/design-thinking-a-manual-for-innovation)
+- [d.school Crash Course](https://dschool.stanford.edu/resources/virtual-crash-course-video)
 
+### User Research
+
+- [How to Choose a User Research Method](https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84)
+- [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)
 
 
 ## Questions
