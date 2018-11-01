@@ -74,6 +74,15 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - [How to Choose a User Research Method](https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84)
 - [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)
 
+### Methods of Product Design
+
+- Google Sprint
+	+ [Quora: What is Google's approach to product development?](https://www.quora.com/What-is-Googles-approach-to-product-development)
+- CIRCLES Method
+	+ [Intro to the CIRCLES Method™ Product Design Framework](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
+- Product Management
+	+ [Quora: What is Facebook's product management process?](https://www.quora.com/What-is-Facebooks-product-management-process)
+	+ [The Three Questions Facebook Uses To Guide Their Product Development](https://uxdesign.cc/the-three-questions-facebook-uses-to-guide-their-product-development-504791d7a232)
 
 ## Questions
 
