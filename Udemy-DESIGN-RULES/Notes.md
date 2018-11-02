@@ -17,8 +17,8 @@
 
 **UI Design Mantras**
 
-* UI Design Mantra #1: Design is Design is Design
-+ UI Design Mantra #2: Stop Solving Other People's Problems
+- UI Design Mantra #1: Design is Design is Design
+- UI Design Mantra #2: Stop Solving Other People's Problems
 - UI Design Mantra #3: Form Doesn't (and Shouldn't) Follow Function
 - UI Design Mantra #4: Force Evolves Form
 - UI Design Mantra #5: On Small Screens, Less is More
