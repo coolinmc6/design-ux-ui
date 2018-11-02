@@ -522,9 +522,126 @@
 
 ## Designing with Typography and Imagery
 
+### Typography 101: It's About Much More Than Choosing a Font!
+
+- typography has one plain duty before it and that is to convey information in writing.
+
+### Creating Emotional Impact with Typography
+
+- Typography creates emotional impact
+- typography serves functional purpose
+- Appropriate typography choices create:
+	+ readability
+	+ accessibility
+	+ usability
+	+ visual balance
+
+### Choosing a Font Isn't Typography: The Importance of Pattern Recognition
+
+- Choosing a font isn't typography
+	+ anyone can choose a font
+	+ not everyone knows how to treat text as visual design - utilizing size, weight, space and style combinations - to establish visual order, signal relationships and enhance understanding
+- pattern recognition
 
 
+[back to top](#top)
 
+### The Importance of Proper Alignment
+
+- alignment
+	- "rag-right" => not justified
+	- center-aligned text has a different starting place for each line: paragraphs should never be center-aligned
+* kerning
+	- kerning - the space between letters
+	- kerning is critical to legibility, readability, and comprehension
+* leading
+	- pronounced like the metal not like a "leader"
+	- leading is the space between lines of text
+	- in terms of UI design, we call it line height
+	- increasing the leading makes text easier to scane and read, which makes comprehension a lot faster as well
+	- it also serves to visually group text
+
+[back to top](#top)
+
+### Seven Rules for Great Typography
+
+- 1. 2 typefaces max
+	+ that means no more than 2 font families
+	+ character widths and weights of each font should be complementary to the other
+	+ Avenir and Georgia have similar character widths; that creates visual harmony
+	+ At the same time, font pairings need to have some visual difference; otherwise, there's no reason to use the second font
+- 2. Limit line width
+	+ when line lengths are too wide, the eye has to work a lot hard to "track" the text - following and finding the beginning of the next line
+	+ this makes reading and comprehension much more difficult (and slower)
+	+ Limit 60 characters per line - desktop
+	+ 30-40 characters per line - mobile
+- 3. Choose readability
+	+ the typefaces you choose have to be readable at all sizes (headings, body, buttons, labels, data, etc.)
+	+ your typefaces should have enough height that letterforms don't degrade at small sizes
+- 4. Choose legibility
+	+ make sure all letterforms are clearly distinguishable in your typeface
+	+ beware of L's that look like I's
+	+ some fonts have poorly specified kerning
+- 5. Use space between paragraphs
+	+ visual breaks between paragaphs give the eyes a place to rest
+- 6. Align text elements in layout using baselines
+- 7. Use styles to visually differentiate content
+	+ when choosing a typeface, you want one with at least: regular, italic and bold
+	+ Use those styles in your design to differentiates between types of content
+	+ example:
+		* heading is largest and bold
+		* sub-head is larger than body and italicized
+		* body is regular style and normal size
+
+[back to top](#top)
+
+### Five Rules for Choosing Imagery
+
+- 1. Make sure it serves a purpose
+	+ and make sure you understand what that purpose is
+	+ what message will it send?
+	+ what emotions will it evoke
+	+ how will it support/reinforce the content?
+	+ how will it guide or instruct?
+	+ does it strengthen and deepen understanding, or interfere/distract from it?
+- 2. Focus on people (not things)
+	+ You want people to see themselves using what you're promoting
+	+ So an image of one of us using a product will always carry more resonance than an image of just that product
+	+ images of people looking away from the camera is easier for us to imagine that that is us
+- 3. Cropping can change meaning
+	+ How you crop an image has a dramatic impact on how it's perceived
+- 4. Never go for the cheap shot.
+	+ don't be sexist or objectify people
+	+ don't objectify - empower
+- 5. Don't forget the power of illustration
+	+ particularly when the subject is something we see a lot - and as a result are numb to
+	+ illustration can be more relevant and appropriate to its content; it can provide powerful emotion support to editorials
+
+[back to top](#top)
+
+### Imagery DOs and DON'Ts
+
+- [https://material.io/design/communication/imagery.html#principles](https://material.io/design/communication/imagery.html#principles)
+- DO: Show an actual person when the reference to that person is specific
+- DO: Use illustration when specificity isn't possible, or doesn't apply
+- DO: Look for images that represent and tell realistic stories
+- DON'T: Use posed, staged stock images that feel faked and unemotional
+- DO: If you're referencing a specific produt, show *that specific product*
+- DON'T: default to generic, literal stock photos
+- DO: Use color and composition to create a focal point that communicates meaning
+- DON'T: make the user hunt for the hidden meaning(s) in your image
+- DO: Use images with only a few meaningful elements, with minimal distractions
+- DON'T: obscure the point of focus, which also obscures meaning and diminishes power
+- DO: Strive for clear visual focus, which communicates the concept at a glance
+- DON'T: use photos whose lack of focus makes the image meaningless
+- DO: Build a narrative; imply an interesting, informative story
+- DON'T: Use images without context; these don't convey mood, brand, and context
+- DO: show a product and people in the context of a real-world situation
+- DON'T: show a product and its user disassociated from that context; it's not interesting
+	+ think of the car seat - one has the mother with the child, the other has just the baby in the car seat looking at the camera
+- [https://stocksnap.io](https://stocksnap.io)
+
+[back to top](#top)
 
 
 
