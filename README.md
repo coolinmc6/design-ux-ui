@@ -6,6 +6,9 @@ These are my notes on UX (user experience) Research and Design courses, articles
 - [Udemy Courses](#udemy-courses)
 
 
+[Analytics Notes](https://github.com/coolinmc6/analytics)
+
+
 <a name="umi-micromasters"></a>
 
 ## University of Michigan MicroMasters courses
