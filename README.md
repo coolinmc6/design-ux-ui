@@ -200,6 +200,16 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	+ [Quora: What is Facebook's product management process?](https://www.quora.com/What-is-Facebooks-product-management-process)
 	+ [The Three Questions Facebook Uses To Guide Their Product Development](https://uxdesign.cc/the-three-questions-facebook-uses-to-guide-their-product-development-504791d7a232)
 
+### OKR's
+
+**Links:**
+
+- [Set Goals with OKR's](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
+- [How to Write Objective and Key results - Practical Examples](https://medium.com/happierco-blog/how-to-write-objective-and-key-results-practical-examples-dc28e36db0d9)
+- [Beginner's Guide to OKR](https://felipecastro.com/en/okr/what-is-okr/)
+- [Steps to successfully set up goals with OKR](https://medium.com/happierco-blog/steps-to-successfully-setup-okr-cd0251505dbb)
+- 
+
 ## Questions
 
 #### What is the difference between Product Design vs. UX Design?
