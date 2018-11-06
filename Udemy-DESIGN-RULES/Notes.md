@@ -660,6 +660,8 @@
 - icons are quick to recognize
 - icons should clearly convey meaning
 
+[back to top](#top)
+
 ### Four Core Types of Icons (and How to Choose The Right Type)
 
 - Similar icons are useful for simple, easily understood actions and concepts
@@ -680,6 +682,8 @@
 	+ a text label goes a long way in properly setting user expectation and enabling them to predict the result of the interaction
 - **UI Design Mantra #16: Icons must be recognizable and memorable.**
 
+[back to top](#top)
+
 ### Five Rules for Effective Icon Design
 
 - 1. Keep visual / perceived size consistent
@@ -698,12 +702,17 @@
 	+ if the concept or action depicted is common, near-unversal, stick with the established icon
 		* anything else invites confusion
 
+[back to top](#top)
+
 ### Dealing with Data
 
 - The greatest value of a picture is when it forces us to notice what we never expected to see
 - the "three legged stool"
 	+ book: Designing Data Visualizations: Representing Informational Relationships
 	+ Data - Designer - Viewer
+
+![Three Legged Stool](https://github.com/coolinmc6/design-ux-ui/blob/master/assets/three-legged-stool.png)
+
 - Persuasive
 	+ Designer to Viewer
 	+ represents a specific point of view
@@ -723,9 +732,14 @@
 	+ What does the viewer need to understand - how quickly or easily?
 	+ Example: bar chart vs. pie graph
 	+ What matters most - to us and to the viewer?
+
+![Highlight important data for the user](https://github.com/coolinmc6/design-ux-ui/blob/master/assets/highlight-important-data.png)
+
 - Do the visuals accurately reflect the numbers?
 	+ bad example: 3-D bar chart vs. regular 2-D => 2-D is simple, flat and easier to read
 - **UI Design Mantra #17: Context of use dictates visual form.**
+
+[back to top](#top)
 
 ### Five Rules for Great Data Design
 
@@ -745,16 +759,25 @@
 	+ the more information is any given view, the harder it is for viewers to find what they care most about
 - 5. The more brainpower required to decode your visualization, the less that's available for understanding it
 
+[back to top](#top)
+
 ### Simplifying Visual Information - Part 1
 
 -
 
+[back to top](#top)
+
 ### Sipmlifying Visual Information - Part 2
+
+[back to top](#top)
 
 ### Separating Context from Controls - Part 1	
 
+[back to top](#top)
+
 ### Separating Context from Controls - Part 2
 
+[back to top](#top)
 
 ## Things to Remember
 
