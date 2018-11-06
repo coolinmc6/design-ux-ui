@@ -31,6 +31,9 @@
 - UI Design Mantra #12: Use color to communicate and influence interaction.
 - UI Design Mantra #13: Choose color based on associations, emotions, and brand.
 - UI Design Mantra #14: Contrast always wins.
+- 
+- UI Design Mantra #16: Icons must be recognizable and memorable.
+- UI Design Mantra #17: Context of use dictates visual form.
 
 
 ### My Key Takeaways
@@ -649,11 +652,108 @@
 
 ## Creating and Simplifying Visual Cues
 
+### Working With Icons
 
+- Microsoft -> put the icon and then associated text/description
+- icons make excellent touch targets
+- icons save space
+- icons are quick to recognize
+- icons should clearly convey meaning
 
+### Four Core Types of Icons (and How to Choose The Right Type)
 
+- Similar icons are useful for simple, easily understood actions and concepts
+	+ turn right, no smoking, hand in gears
+- Symbolic icons represent an action, object or concept at high abstraction
+	+ hamburger symbol, lock, printer
+- Example use images taht exeplify or are commonly associated with an action, object, or concept
+	+ airplane to represent an airport, scissors + dotted line for "cutting" something, mail symbol for email
+- Arbitrary icons bear no resemblance to the represented concept; their meaning is learned through repeated exposure
+	+ USB symbol, bluetooth, male/female
+- Icon choice starts with their environment
+	+ App icons should be based on Android or iOS icons
+	+ Laptop software should use Microsoft, Google Chrome
+	+ Website should be based on commonly used icons
+- Quick Rule of THumb
+	+ if you choose more than 15 minutes to pick an icon, you probably need a different icon
+- Label + icon is hard to beat
+	+ a text label goes a long way in properly setting user expectation and enabling them to predict the result of the interaction
+- **UI Design Mantra #16: Icons must be recognizable and memorable.**
 
+### Five Rules for Effective Icon Design
 
+- 1. Keep visual / perceived size consistent
+	+ icons that occupy the same pixel space on the grid aren't necessarily perceived as being the same size
+	+ check optical size with shapes - look for equal visual weight
+	+ check width of rules (strokes) used in the icon
+		* when rule width varies, icons will be perceived as different size
+- 2. Keep the level of detail consistent
+	+ More detailed icons will atract the user's attention first - because they appear to have more visual weight than the others
+- 3. Eliminate unnecessary detail
+	+ think context: what really needs to be there?
+		* if you are working in an email app, do you really need the envelope for all icons?
+- 4. Don't mix and match styles
+	+ fill and non filled style; it's okay for hover/active
+- 5. Don't reinvent the wheel
+	+ if the concept or action depicted is common, near-unversal, stick with the established icon
+		* anything else invites confusion
+
+### Dealing with Data
+
+- The greatest value of a picture is when it forces us to notice what we never expected to see
+- the "three legged stool"
+	+ book: Designing Data Visualizations: Representing Informational Relationships
+	+ Data - Designer - Viewer
+- Persuasive
+	+ Designer to Viewer
+	+ represents a specific point of view
+	+ meant to change opinion or reinforce an existing opinion
+	+ bias can be unintentional
+- Informative
+	+ Viewer to Data
+	+ Neutral presentation of facts
+	+ meant to educate as opposed to persuade (watch bias!)
+	+ example: Google Analytics
+- Visual Art
+	+ Designer to Data
+	+ Encoding takes precedence over decoding
+	+ when intentional, the intended outcome is usually just enjoyment
+	+ When unintentional, can have serious, negative consequences
+- Context of use dictates visual form
+	+ What does the viewer need to understand - how quickly or easily?
+	+ Example: bar chart vs. pie graph
+	+ What matters most - to us and to the viewer?
+- Do the visuals accurately reflect the numbers?
+	+ bad example: 3-D bar chart vs. regular 2-D => 2-D is simple, flat and easier to read
+- **UI Design Mantra #17: Context of use dictates visual form.**
+
+### Five Rules for Great Data Design
+
+- 1. Data is only useful if it can be understood
+	+ if I don't understand it, I can't act on it
+	+ If I can't act on it, it's practically worthless
+	+ Data isn't the goal - it's a tool that helps us understand and make change in the world
+	+ Data without design is noise
+- 2. You're designing for other people
+	+ you have to design for their identity, motivation, language, and learned social contexts (colo associations, icon recognition, reading patterns, etc.)
+- 3. You're designing for their context of use
+	+ what amount of infomration does the user need in order to understand or act?
+	+ what motivaitons is he/she coming to the table with?
+	+ how do those motivations influence how useful or actionable the visualization is?
+	+ How much time does he/she have to spend with this information?
+- 4. The usefulness of data decreases when its volume increases
+	+ the more information is any given view, the harder it is for viewers to find what they care most about
+- 5. The more brainpower required to decode your visualization, the less that's available for understanding it
+
+### Simplifying Visual Information - Part 1
+
+-
+
+### Sipmlifying Visual Information - Part 2
+
+### Separating Context from Controls - Part 1	
+
+### Separating Context from Controls - Part 2
 
 
 ## Things to Remember

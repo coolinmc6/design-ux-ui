@@ -205,10 +205,45 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 **Links:**
 
 - [Set Goals with OKR's](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
+	+ [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7)
+		* good YouTube video that outlines how Google's process but also has some good
+		* At FeedBurner, Dick Costolo would say "get all the feeds" - everything employees did had that in mind
+		* CEO sets the company's objectives
+		* Employees' OKR's were never really
+		* Keys to OKRs
+			- OKR's are:
+				+ set quarterly and annually
+				+ measurable
+				+ set at personal, team, and company levels
+				+ publicly available to the entire company
+				+ graded each quarter
+		* Elements of an OKR
+			- The *Objective* is:
+				+ ambitious
+				+ feels a tad uncomfortable
+			- The *Key Results*:
+				+ clearly make the objective achievable
+				+ are quantifiable
+				+ lead to objective grading
+		* Personal / Team / Company
+			- Personal OKRs define what the person is working on
+			- Team OKRs define priorities for the team, not just a collection of all individual OKRs
+			- Company OKRs are big picture, top-level focus for the entire company
+		* Sample Personal OKRs
+			- Objective: Accelerate Blogger Revenue Growth
+			- Key Results:
+				+ launch "monetize" to allow one-click ad revenue
+				+ Implement AdSense Host Channel Placement targting RPM's by xx%
+				+ Launch 3 revenue-specific experiments to learn what drives revenue growth
+				+ Finalize PRD (Product Requirements Doc) for Blogger Ad Network, secure eng allocation to build in Q1
+			- Objective: Improve Blogger's Reputation
 - [How to Write Objective and Key results - Practical Examples](https://medium.com/happierco-blog/how-to-write-objective-and-key-results-practical-examples-dc28e36db0d9)
 - [Beginner's Guide to OKR](https://felipecastro.com/en/okr/what-is-okr/)
 - [Steps to successfully set up goals with OKR](https://medium.com/happierco-blog/steps-to-successfully-setup-okr-cd0251505dbb)
-- 
+- [The Art of the OKR](http://eleganthack.com/the-art-of-the-okr/)
+- Personal OKR's
+	- [Personal OKR's](http://eleganthack.com/personal-okrs/)
+	
 
 ## Questions
 
