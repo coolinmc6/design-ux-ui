@@ -193,7 +193,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 > As the product person on the team my role was to protect and improve the dev cycle and moderate the product meetings to ensure all team members felt comfortable contributing. Oftentimes just getting the opportunity to voice your idea and having it written on the board - even if it isn’t built - massively increases buy-in of the process.
 
-  + **CM Note:** those three objectives were decided BEFORE this meeting. Understanding what your team is trying to achieve and having some core objectives is important. Other companies talk about a "North Star" metric that guides all product discussions.
+	+ **CM Note:** those three objectives were decided BEFORE this meeting. Understanding what your team is trying to achieve and having some core objectives is important. Other companies talk about a "North Star" metric that guides all product discussions.
 - **Tip #3:** Organized and Inclusive Brainstorm
 	+ They would write ideas down on the whiteboard in one of the following categories:
 		* new features / feature iterations
