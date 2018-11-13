@@ -160,7 +160,49 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	+ Design Exploration
 	+ Prototyping
 
+### Michael Siebel: Product Development Cycle Fundamentals
 
+- Some of their (Justin.tv) major problems with product development included:
+	+ Unfocused product meetings that were **not written down**
+	+ Products were poorly spec'd out or not spec'd out at all
+	+ Too focused on fully-formed products as opposed to MVPs
+	+ Rarely spec'd analytics for new products and thus had no idea how they were performing post-launch
+	+ Development cycles ran months-long
+		* they were sick of the new feature by the time it launched so they didn't iterate
+	+ Product roadmap was too long so team members weren't excited to brainstorm new products
+	+ Product decisions were made exclusively by founders in a non-transparent process
+- Just using the opposite of each of these (before reading the rest of the post), what **should** a good product cycle do or have?
+	+ Focused product meetings (they have an agenda) with the resulting meeting notes written down and distributed
+	+ Products are carefully spec'd out and understood by everyone working on it
+	+ Build MVPs and then iterate - don't build the *whole thing at once*
+	+ Identify important metrics related to the product and track them post-launch
+	+ Shorten your product roadmap or reduce how attached your are to it; be responsive to successes in your releases
+	+ Make product decisions in a more open, transparent way
+- This post is what Michael Siebel used at Socialcam; it's broken down into a couple concrete tips/suggestions
+- **Tip #1:** Define Your Development Cycle Length
+	+ development cycle is dictated by your product: iOS apps may need two weeks, web apps maybe a week, hardware could be longer
+	+ The **key** is to make the cycle short enough so that the team can stay excited and still feel like they can brainstorm new ideas
+- **Tip #2:** Determine Your Goal(s) and Identify the Product Lead
+	+ They had one team meeting and it was their product meeting which happened at the first day of the dev cycle
+	+ Socialcam had three main objectives that every product meeting was focused around:
+		* increasing content creation
+		* increasing new users
+		* increasing retention
+	+ They'd pick a goal and that would be the focus for the next two weeks
+	+ He isn't explicit about whether the product lead changes or whether it's the same every time but this quote below is good. He goes into more of some of the responsibilities of the Product Lead and some of the behaviors of that person
+
+> As the product person on the team my role was to protect and improve the dev cycle and moderate the product meetings to ensure all team members felt comfortable contributing. Oftentimes just getting the opportunity to voice your idea and having it written on the board - even if it isn’t built - massively increases buy-in of the process.
+
+  + **CM Note:** those three objectives were decided BEFORE this meeting. Understanding what your team is trying to achieve and having some core objectives is important. Other companies talk about a "North Star" metric that guides all product discussions.
+- **Tip #3:** Organized and Inclusive Brainstorm
+	+ They would write ideas down on the whiteboard in one of the following categories:
+		* new features / feature iterations
+		* maintenance
+		* A/B tests
+- **Tip #4:** 
+- **Tip #5:** 
+- **Tip #6:** 
+- **Tip #7:** 
 
 
 
@@ -168,7 +210,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 ### Building a Product
 
-- [The Complete Guide to the UX Product Design Process](https://www.dtelepathy.com/blog/design/the-complete-product-design-process)
+
 - GV Design Sprints
 	+ [The Ultimate (and Free) Tool for Facilitating Design Sprints](https://www.dtelepathy.com/blog/design/the-ultimate-and-free-tool-for-facilitating-design-sprints?rlid=24155)
 
@@ -177,17 +219,15 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - [Design Thinking: A Manual for Innovation](https://theblog.adobe.com/design-thinking-a-manual-for-innovation)
 - [d.school Crash Course](https://dschool.stanford.edu/resources/virtual-crash-course-video)
 
-### User Research
-
-- [How to Choose a User Research Method](https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84)
-- [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)
-
 ### Methods of Product Design
 
 - Google Sprint
 	+ [Quora: What is Google's approach to product development?](https://www.quora.com/What-is-Googles-approach-to-product-development)
 - CIRCLES Method
 	+ [Intro to the CIRCLES Method™ Product Design Framework](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
+- [The Complete Guide to the UX Product Design Process](https://www.dtelepathy.com/blog/design/the-complete-product-design-process)
+- Michael Siebel
+	+ [Product Development Cycle Fundamentals](http://www.michaelseibel.com/blog/product-development-cycle-fundamentals)
 - Product Management: Amazon
 	+ [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management)
 		* the first answer is okay but the answer on "working backwords" is great and is explained in detail in the Quora link and in these articles: 
@@ -243,6 +283,13 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - [The Art of the OKR](http://eleganthack.com/the-art-of-the-okr/)
 - Personal OKR's
 	- [Personal OKR's](http://eleganthack.com/personal-okrs/)
+
+
+
+### User Research
+
+- [How to Choose a User Research Method](https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84)
+- [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)
 	
 
 ## Questions
