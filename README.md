@@ -2,8 +2,12 @@
 
 These are my notes on UX (user experience) Research and Design courses, articles, books, and other resources related to UX. It is also a repository for research on Product Design and Development, primarily focused on understanding the various product frameworks of building great products. Here are the main areas of this repo:
 
+### Main Table of Contents
 - [University of Michigan MicroMasters courses](#umi-micromasters)
 - [Udemy Courses](#udemy-courses)
+- [Product Design and Development](https://github.com/coolinmc6/design-ux-ui#product-design--development)
+- [Links to Explore](https://github.com/coolinmc6/design-ux-ui#links-to-explore)
+- [Questions](https://github.com/coolinmc6/design-ux-ui#questions)
 
 
 [Analytics Notes](https://github.com/coolinmc6/analytics)
