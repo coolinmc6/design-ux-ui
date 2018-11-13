@@ -75,8 +75,43 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 ### Amazon: Working Backwards
 
-- Source: [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management?ref=http://www.product-frameworks.com/)
+- Sources: 
+	- [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management?ref=http://www.product-frameworks.com/)
+	- Design Telepathy: [Your Complete Guide to Setting Your Product Vision & Value Proposition](https://www.dtelepathy.com/blog/products/product-value-proposition)
+	- Wener Vogels (Amazon CTO): [Working Backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
+- The "Work Backwards" philosophy is a method of product development that has you start with the customer first (or at least the "press release" and why a customer should care) and then work backwards to what you'd need to build it
+- My summary here is a combination of different sources around how to do this
+- All versions start with the "Press Release" announcing the product
 
+**Version #1**
+
+- One version is just a press release
+- Here's a great example outline for a press release:
+	+ **Heading** - Name the product in a way the reader (i.e. your target customers) will understand.
+	+ **Sub-Heading** - Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+	+ **Summary** - Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+	+ **Problem** - Describe the problem your product solves.
+	+ **Solution - Describe how your product elegantly solves the problem.
+	+ **Quote from You** - A quote from a spokesperson in your company.
+	+ **How to Get Started** - Describe how easy it is to get started.
+	+ **Customer Quote** - Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+	+ **Closing and Call to Action** - Wrap it up and give pointers where the reader should go next.
+- They recommend keeping your press release relatively short and not getting too technical; you want to keep it mainstream. People need to get excited about the product from reading the press release
+- After the product moves into development, the press release is the guiding light that should be used as inspiration to prevent scope drift or feature bloat / overbuilding of certain features.
+
+**Version #2**
+
+- *I haven't fully summarized this method. It requires a deeper understanding of the other three parts. I can revisit this later.*
+- Design Telepathy uses a modified version of this with four main parts:
+	+ #1. Press Release
+	+ #2. FAQ Document
+	+ #3. Map the Customer Experience
+	+ #4. Create a User Manual
+- The Press Release has similar items as in Amazon's. They also recommend following HubSpot's [template](https://blog.hubspot.com/marketing/press-release-template-ht) for writing a press release
+- The FAQ gives you the opportunity to get more granular on certain items not answered in the press release
+- Mapping the customer experience
+	+ See this post: [Improve Your Customer’s Experience With Experience Mapping](https://www.dtelepathy.com/blog/business/experience-mapping)
+- Creating a User Manual
 
 [back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
 
@@ -180,6 +215,10 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - **Design and Build**
 	+ Design Exploration
 	+ Prototyping
+
+[back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
+
+### Facebook: The Three Questions Facebook Uses To Guide Their Product Development
 
 [back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
 
@@ -307,7 +346,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	+ [Product Development Cycle Fundamentals](http://www.michaelseibel.com/blog/product-development-cycle-fundamentals)
 - Product Management: Amazon
 	+ [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management)
-		* the first answer is okay but the answer on "working backwords" is great and is explained in detail in the Quora link and in these articles: 
+		* the first answer is okay but the answer on "working backwards" is great and is explained in detail in the Quora link and in these articles: 
 			* [Your Complete Guide to Setting Your Product Vision & Value Proposition](https://www.dtelepathy.com/blog/products/product-value-proposition)
 			* [Working Backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
 	+ [Interview with Amazon Product Manager](https://www.productschool.com/blog/events/amazon-product-manager-orkun-ozbatur/)
