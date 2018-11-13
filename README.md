@@ -1,6 +1,6 @@
 # README
 
-These are my notes on UX (user experience) Research and Design courses, articles, books, and other resources related to UX. There are a couple main areas:
+These are my notes on UX (user experience) Research and Design courses, articles, books, and other resources related to UX. It is also a repository for research on Product Design and Development, primarily focused on understanding the various product frameworks of building great products. Here are the main areas of this repo:
 
 - [University of Michigan MicroMasters courses](#umi-micromasters)
 - [Udemy Courses](#udemy-courses)
@@ -58,7 +58,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 |3|[UX & Web Design Master Course: Strategy, Design, Development](https://www.udemy.com/ux-web-design-master-course-strategy-design-development/)|[Notes](https://github.com/coolinmc6/design-ux-ui/blob/master/Udemy-UX-Web-Design-Master-Course/Notes.md)||
 
 
-## Product Design Processes
+## Product Design & Development
 
 ### Product Table of Contents
 
