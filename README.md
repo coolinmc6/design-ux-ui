@@ -71,14 +71,14 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - [Design Telepathy: The Complete Guide to the UX Product Design Process](https://github.com/coolinmc6/design-ux-ui#design-telepathys-product-design-process)
 - [Michael Siebel: Product Development Cycle Fundamentals](https://github.com/coolinmc6/design-ux-ui#michael-siebel-product-development-cycle-fundamentals)
 
-[back to top](#main-table-of-contents) | [Product Table of Content](#product-table-of-contents)
+[back to top](#main-table-of-contents)
 
 ### Amazon: Working Backwards
 
 - Source: [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management?ref=http://www.product-frameworks.com/)
 
 
-[back to top](#main-table-of-contents) | 
+[back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
 
 ### Design Telepathy's Product Design Process
 
@@ -181,6 +181,8 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	+ Design Exploration
 	+ Prototyping
 
+[back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
+
 ### Michael Siebel: Product Development Cycle Fundamentals
 
 - **Source:** [Product Development Cycle Fundamentals](http://www.michaelseibel.com/blog/product-development-cycle-fundamentals)
@@ -278,6 +280,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 		* People should know what their responsibilities are from #5 - their focus should be on that
 		* Last few days of cycle, test items to make sure the features work
 
+[back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
 
 ## Links to Explore
 
