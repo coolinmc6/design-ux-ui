@@ -361,6 +361,19 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - GV Design Sprints
 	+ [The Ultimate (and Free) Tool for Facilitating Design Sprints](https://www.dtelepathy.com/blog/design/the-ultimate-and-free-tool-for-facilitating-design-sprints?rlid=24155)
 
+### Design Language Systems
+
+- [Design Language Systems](https://uxplanet.org/design-language-system-d438f4aa30e0)
+- Examples:
+	+ [Airbnb](https://airbnb.design/building-a-visual-language/)
+	+ [Apple](https://developer.apple.com/design/)
+	+ [Atlassian](https://atlassian.design/)
+	+ [Fluent Design System by Microsoft](https://www.microsoft.com/design/fluent/)
+	+ [IBM](https://www.ibm.com/design/language/)
+	+ [Lightning Design System by Salesforce](https://www.lightningdesignsystem.com/)
+	+ [Nachos by Trello](https://design.trello.com/)
+	+ [Polaris by Shopify](https://polaris.shopify.com/)
+
 ### Learning Design
 
 - [Design Thinking: A Manual for Innovation](https://theblog.adobe.com/design-thinking-a-manual-for-innovation)
