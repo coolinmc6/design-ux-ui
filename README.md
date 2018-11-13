@@ -112,6 +112,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - Mapping the customer experience
 	+ See this post: [Improve Your Customer’s Experience With Experience Mapping](https://www.dtelepathy.com/blog/business/experience-mapping)
 - Creating a User Manual
+- This [document](https://github.com/coolinmc6/design-ux-ui/blob/master/assets/Product-Vision-Workshop-Template.pdf) is a template to help set the vision for a product.
 
 [back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
 
@@ -219,6 +220,26 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 [back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
 
 ### Facebook: The Three Questions Facebook Uses To Guide Their Product Development
+
+- Sources:
+	+ [The Three Questions Facebook Uses To Guide Their Product Development](https://uxdesign.cc/the-three-questions-facebook-uses-to-guide-their-product-development-504791d7a232)
+- The three questions:
+	+ Question #1: What people problem are we trying to solve?
+	+ Question #2: How do we know this is a real problem?
+	+ Question #3: How will we know if we've solved this problem?
+- Question #1: What people problem are we trying to solve?
+	+ Write the problem statement in a simple, straightforward way - no technical jargon
+	+ Do not have a solution in mind when writing it - just write what the problem is
+	+ The problem statement shouldn't be about the company winning
+	+ Touch on the *why* of the problem
+	+ functional, emotional or social
+
+> Facebook example — “I want to talk about an interest with other people who are also interested, but I don’t know where to find these people”
+
+- Question #2: How do we know this is a real problem?
+	+ what evidence is there, qualitative or quantitative, that this is a problem worth solving?
+- Question #3: How will we know if we've solved this problem?
+	+ set measurable goals, metrics, and milestones before you launch
 
 [back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
 
@@ -335,26 +356,30 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - [Design Thinking: A Manual for Innovation](https://theblog.adobe.com/design-thinking-a-manual-for-innovation)
 - [d.school Crash Course](https://dschool.stanford.edu/resources/virtual-crash-course-video)
 
-### Methods of Product Design
+### Product Design and Development
 
-- Google Sprint
-	+ [Quora: What is Google's approach to product development?](https://www.quora.com/What-is-Googles-approach-to-product-development)
+- Amazon
+	+ Working Backwards
+		* [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management)
+			- the first answer is okay but the answer on "working backwards" is great and is explained in detail in the Quora link and in these articles: 
+				- [Your Complete Guide to Setting Your Product Vision & Value Proposition](https://www.dtelepathy.com/blog/products/product-value-proposition)
+				- [Working Backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
+	+ Product Manager Interview
+		* [Interview with Amazon Product Manager](https://www.productschool.com/blog/events/amazon-product-manager-orkun-ozbatur/)
+		* [Another Amazon Product Manager Interview](https://www.productschool.com/blog/events/amazon-product-manager-answers-community-questions/)
 - CIRCLES Method
 	+ [Intro to the CIRCLES Method™ Product Design Framework](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
-- [The Complete Guide to the UX Product Design Process](https://www.dtelepathy.com/blog/design/the-complete-product-design-process)
-- Michael Siebel
-	+ [Product Development Cycle Fundamentals](http://www.michaelseibel.com/blog/product-development-cycle-fundamentals)
-- Product Management: Amazon
-	+ [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management)
-		* the first answer is okay but the answer on "working backwards" is great and is explained in detail in the Quora link and in these articles: 
-			* [Your Complete Guide to Setting Your Product Vision & Value Proposition](https://www.dtelepathy.com/blog/products/product-value-proposition)
-			* [Working Backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
-	+ [Interview with Amazon Product Manager](https://www.productschool.com/blog/events/amazon-product-manager-orkun-ozbatur/)
-	+ [Another Amazon Product Manager Interview](https://www.productschool.com/blog/events/amazon-product-manager-answers-community-questions/)
-	+ 
-- Product Management: Facebook
+- Design Telepathy
+	- [The Complete Guide to the UX Product Design Process](https://www.dtelepathy.com/blog/design/the-complete-product-design-process)
+- Facebook
 	+ [Quora: What is Facebook's product management process?](https://www.quora.com/What-is-Facebooks-product-management-process)
 	+ [The Three Questions Facebook Uses To Guide Their Product Development](https://uxdesign.cc/the-three-questions-facebook-uses-to-guide-their-product-development-504791d7a232)
+- Google Sprint
+	+ [Quora: What is Google's approach to product development?](https://www.quora.com/What-is-Googles-approach-to-product-development)
+- Michael Siebel
+	+ [Product Development Cycle Fundamentals](http://www.michaelseibel.com/blog/product-development-cycle-fundamentals)
+
+	
 
 ### OKR's
 
