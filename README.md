@@ -81,7 +81,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	- [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management?ref=http://www.product-frameworks.com/)
 	- Design Telepathy: [Your Complete Guide to Setting Your Product Vision & Value Proposition](https://www.dtelepathy.com/blog/products/product-value-proposition)
 	- Wener Vogels (Amazon CTO): [Working Backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
-- The "Work Backwards" philosophy is a method of product development that has you start with the customer first (or at least the "press release" and why a customer should care) and then work backwards to what you'd need to build it
+- "Work Backwards" is a method of product development that has you start with the customer first (or at least the "press release" and why a customer should care) and then work backwards to what you'd need to build it
 - My summary here is a combination of different sources around how to do this
 - All versions start with the "Press Release" announcing the product
 
@@ -93,7 +93,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	+ **Sub-Heading** - Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
 	+ **Summary** - Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 	+ **Problem** - Describe the problem your product solves.
-	+ **Solution - Describe how your product elegantly solves the problem.
+	+ **Solution** - Describe how your product elegantly solves the problem.
 	+ **Quote from You** - A quote from a spokesperson in your company.
 	+ **How to Get Started** - Describe how easy it is to get started.
 	+ **Customer Quote** - Provide a quote from a hypothetical customer that describes how they experienced the benefit.
@@ -117,6 +117,11 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - This [document](https://github.com/coolinmc6/design-ux-ui/blob/master/assets/Product-Vision-Workshop-Template.pdf) is a template to help set the vision for a product.
 
 [back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
+
+### Basecamp: How We Structure Our Work and Teams at Basecamp
+
+- Source: [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae)
+- 
 
 ### Design Telepathy's Product Design Process
 
