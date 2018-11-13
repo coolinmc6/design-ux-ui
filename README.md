@@ -33,6 +33,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 |8|[UX Research at Scale: Analytics and Online Experiments](https://www.edx.org/course/ux-research-at-scale-analytics-and-online-experiments)|||
 |9|[UX (User Experience) Capstone](https://www.edx.org/course/ux-user-experience-capstone-michiganx-ux509x)|||
 
+[back to top](#main-table-of-contents)
 
 ### Follow-up Work To Do
 
@@ -69,13 +70,15 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - [Amazon: Working Backwards](#amazon-working-backwards)
 - [Design Telepathy: The Complete Guide to the UX Product Design Process](https://github.com/coolinmc6/design-ux-ui#design-telepathys-product-design-process)
 - [Michael Siebel: Product Development Cycle Fundamentals](https://github.com/coolinmc6/design-ux-ui#michael-siebel-product-development-cycle-fundamentals)
-- [Links to Explore]
+
+[back to top](#main-table-of-contents) | [Product Table of Content](#product-table-of-contents)
 
 ### Amazon: Working Backwards
 
 - Source: [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management?ref=http://www.product-frameworks.com/)
 
 
+[back to top](#main-table-of-contents) | 
 
 ### Design Telepathy's Product Design Process
 
