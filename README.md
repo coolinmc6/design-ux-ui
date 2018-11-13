@@ -162,6 +162,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 ### Michael Siebel: Product Development Cycle Fundamentals
 
+- **Source:** [Product Development Cycle Fundamentals](http://www.michaelseibel.com/blog/product-development-cycle-fundamentals)
 - Some of their (Justin.tv) major problems with product development included:
 	+ Unfocused product meetings that were **not written down**
 	+ Products were poorly spec'd out or not spec'd out at all
@@ -232,6 +233,18 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	+ They had an Excel sheet of manual tests for all of the basic functionality
 	+ With each new cycle, they would add tests to that list (for any new features that were build) and then each item on the list would be tested twice
 	+ **CM:** this sounds like a lot of testing. It sounds like the burden of testing would grow with each cycle if EVERY item was tested each cycle. Maybe just the new features are tested? I could see new features breaking older items but a manual test of each item feels excessive - maybe not.
+- **Summary**
+	+ #1: Define Your Development Cycle
+		* depends on your product (and team) - find what works for you
+		* Remember: the key is to keep it short enough the team is still excited and feels like it can brainstorm new ideas
+	+ #2: Determine Your Goals and Identify Product Lead
+		* Pick a goal / objective you'd like to achieve in this development cycle (it should probably come from a list of long-term goals or "North Star" that the team has already decided upon)
+		* Pick your Product Lead
+	+ #3: Organized and Inclusive Brainstorm
+		* Write down ideas from everyone **without** debate or critiquing
+		* Engineers then classify each idea as easy, medium, or hard
+	+ #4: Building a Consensus
+		* 
 
 
 ## Links to Explore
