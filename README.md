@@ -134,23 +134,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 		* great summary of what Design Telepathy thinks on setting the vision for a product / project and understanding your value proposition
 		* It is pretty much Amazon's method plus [mapping the customer experience](https://www.dtelepathy.com/blog/business/experience-mapping) and creating a user manual
 	+ [Design the Beginning](https://medium.com/the-year-of-the-looking-glass/design-the-beginning-b8e61081ce42)
-		* great article, worth reading again
-		* when designing a product, it's easy to start at the middle where the main character already **knows about** your product.
-		* we always want to just assume that people will see straight through to the potential of this new product/feature/etc. and just "get it"
-		* "Nobody cares about the thing you’ve designed, unless you can get them past the beginning."
-		* The "beginning" is how you introduce something new to a person and **how** you will get them to understand its value and actually use it every day/week/whatever
-		* Here are some of the questions you should answer BEFORE you start building it:
-			- Where and how will people first hear about your product or feature?
-			- What should people understand about your product at a glance, and is that compelling enough to convince them to go through the trouble of trying it out?
-			- What should people’s first-time experience through your product be, and how do you plan to demonstrate to them its value within the first minute?
-			- How will you build out the social graph, content inventory, marketplace, etc. if the success of your product is dependent on those things?
-			- What would compel somebody to come back and use your product a second or third time?
-		* she recommends designing the marketing page (app store submission, website, etc.) and the new user experience (the step-by-step flow for first-time user) first.
-		* these designs don't have to be high-fidelity but they should capture what your product is and can deliver to users
-		* By designing the beginning, you can make sure that:
-			- your value proposition is clear
-			- your messaging makes sense and, again, is ***clear***
-			- the path from sign-up to 
+		* great article, worth reading again; summary below
 	+ [The North Star](https://medium.com/the-year-of-the-looking-glass/designs-north-star-d469193063c5)
 	+ [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas)
 		* I've seen something similar ([Lean Canvas](https://leanstack.com/leancanvas)) and it looks like it would work better as a completely new enterprise as opposed to just a single product. There are some good questions that would naturally come up if you force yourself to complete it quickly; e.g. in 20 minutes.
@@ -223,11 +207,12 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 - Sources:
 	+ [The Three Questions Facebook Uses To Guide Their Product Development](https://uxdesign.cc/the-three-questions-facebook-uses-to-guide-their-product-development-504791d7a232)
+	+ []
 - The three questions:
 	+ Question #1: What people problem are we trying to solve?
 	+ Question #2: How do we know this is a real problem?
 	+ Question #3: How will we know if we've solved this problem?
-- Question #1: What people problem are we trying to solve?
+- **Question #1: What people problem are we trying to solve?**
 	+ Write the problem statement in a simple, straightforward way - no technical jargon
 	+ Do not have a solution in mind when writing it - just write what the problem is
 	+ The problem statement shouldn't be about the company winning
@@ -236,10 +221,32 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 > Facebook example — “I want to talk about an interest with other people who are also interested, but I don’t know where to find these people”
 
-- Question #2: How do we know this is a real problem?
+- **Question #2: How do we know this is a real problem?**
 	+ what evidence is there, qualitative or quantitative, that this is a problem worth solving?
-- Question #3: How will we know if we've solved this problem?
+- **Question #3: How will we know if we've solved this problem?**
 	+ set measurable goals, metrics, and milestones before you launch
+
+### Facebook: Design the Beginning
+
+- Source: [Design the Beginning](https://medium.com/the-year-of-the-looking-glass/design-the-beginning-b8e61081ce42)
+* great article, worth reading again
+* when designing a product, it's easy to start at the middle where the main character already **knows about** your product.
+* we always want to just assume that people will see straight through to the potential of this new product/feature/etc. and just "get it"
+* "Nobody cares about the thing you’ve designed, unless you can get them past the beginning."
+* The "beginning" is how you introduce something new to a person and **how** you will get them to understand its value and actually use it every day/week/whatever
+* Here are some of the questions you should answer BEFORE you start building it:
+	- Where and how will people first hear about your product or feature?
+	- What should people understand about your product at a glance, and is that compelling enough to convince them to go through the trouble of trying it out?
+	- What should people’s first-time experience through your product be, and how do you plan to demonstrate to them its value within the first minute?
+	- How will you build out the social graph, content inventory, marketplace, etc. if the success of your product is dependent on those things?
+	- What would compel somebody to come back and use your product a second or third time?
+* she recommends designing the marketing page (app store submission, website, etc.) and the new user experience (the step-by-step flow for first-time user) first.
+* these designs don't have to be high-fidelity but they should capture what your product is and can deliver to users
+* By designing the beginning, you can make sure that:
+	- your value proposition is clear
+	- your messaging makes sense and, again, is ***clear***
+	- the path from sign-up to active user
+
 
 [back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
 
