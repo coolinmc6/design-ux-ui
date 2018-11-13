@@ -188,22 +188,50 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 		* increasing content creation
 		* increasing new users
 		* increasing retention
+		* **CM Note:** those three objectives were decided BEFORE this meeting. Understanding what your team is trying to achieve and having some core objectives is important. Other companies talk about a "North Star" metric that guides all product discussions.
 	+ They'd pick a goal and that would be the focus for the next two weeks
 	+ He isn't explicit about whether the product lead changes or whether it's the same every time but this quote below is good. He goes into more of some of the responsibilities of the Product Lead and some of the behaviors of that person
 
 > As the product person on the team my role was to protect and improve the dev cycle and moderate the product meetings to ensure all team members felt comfortable contributing. Oftentimes just getting the opportunity to voice your idea and having it written on the board - even if it isn’t built - massively increases buy-in of the process.
 
-	+ **CM Note:** those three objectives were decided BEFORE this meeting. Understanding what your team is trying to achieve and having some core objectives is important. Other companies talk about a "North Star" metric that guides all product discussions.
 - **Tip #3:** Organized and Inclusive Brainstorm
 	+ They would write ideas down on the whiteboard in one of the following categories:
 		* new features / feature iterations
 		* maintenance
 		* A/B tests
-- **Tip #4:** 
-- **Tip #5:** 
-- **Tip #6:** 
-- **Tip #7:** 
+	+ Everyone was expected to contribute
+	+ No debates or putting down people's ideas
+		* Everyone felt free to contribute without fear of judgment
+	+ **The product lead is responsible for creating and maintaining this kind of environment.**
+	+ Each brainstormed item would be graded by the engineer in the meeting as the following:
+		* Easy (several can be done in a day)
+		* Medium (half a day for one person)
+		* Hard (most of the dev cycle)
+	+ They didn't allow items to last longer than the dev cycle - if it was, it would get broken down into smaller chunks
+- **Tip #4:** Building a Consensus
+	+ Once the ideas are written out, they'd pick what they would work on through consensus
+	+ Start with the hard ideas as they could typically only do one and then look at medium and then easy
+	+ As a reminder, each of these ideas has the following:
+		* Idea - what the idea
+		* Objective - what objective is it satisfying
+		* Effort Required - how much time would it take to build (i.e. easy, medium, hard)
+	+ Build a consensus around the work that the team wants to complete
+- **Tip #5:** Clear Spec and Clear Measurements of Success
+	+ Spec out of the items on the list **in detail** and assign each item to a team member(s)
+	+ Spec out the metrics that we need to track to measure effectiveness
+	+ Separate out the need-to-have from the nice-to-have items
+	+ Lastly, they'd take a picture of the whiteboard and erase the board
+	+ They didn't have a product roadmap outside of these product meetings. Every two weeks, they'd start from scratch with the new goal, new analytics data from their last two weeks and in-person user testing that they tried to do at least once a month
+	+ I liked this quote on analytics:
 
+> We would never release a feature without releasing the analytics for that feature and understanding what specific measurable result we wanted to create.
+
+- **Tip #6:** Working During the Development Cycle
+	+ Each person has different responsibilities but those responsibilities for the length of the dev cycle were scoped out in the product meeting with very clear specs
+	+ During the last three days of the dev cycle (of a two-week cycle), they would test
+	+ They had an Excel sheet of manual tests for all of the basic functionality
+	+ With each new cycle, they would add tests to that list (for any new features that were build) and then each item on the list would be tested twice
+	+ **CM:** this sounds like a lot of testing. It sounds like the burden of testing would grow with each cycle if EVERY item was tested each cycle. Maybe just the new features are tested? I could see new features breaking older items but a manual test of each item feels excessive - maybe not.
 
 
 ## Links to Explore
