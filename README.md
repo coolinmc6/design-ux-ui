@@ -60,8 +60,22 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 ## Product Design Processes
 
+### Product Table of Contents
+
+- [Amazon: Working Backwards](#amazon-working-backwards)
+- [Design Telepathy: The Complete Guide to the UX Product Design Process](https://github.com/coolinmc6/design-ux-ui#design-telepathys-product-design-process)
+- [Michael Siebel: Product Development Cycle Fundamentals](https://github.com/coolinmc6/design-ux-ui#michael-siebel-product-development-cycle-fundamentals)
+- [Links to Explore]
+
+### Amazon: Working Backwards
+
+- Source: [Quora: What is Amazon's approach to product development and product management?](https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management?ref=http://www.product-frameworks.com/)
+
+
+
 ### Design Telepathy's Product Design Process
 
+- Source: [The Complete Guide to the UX Product Design Process](https://www.dtelepathy.com/blog/design/the-complete-product-design-process)
 - Here are the main sections:
 	+ Defining Product Vision
 	+ Research and Validation
@@ -243,15 +257,27 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	+ #3: Organized and Inclusive Brainstorm
 		* Write down ideas from everyone **without** debate or critiquing
 		* Engineers then classify each idea as easy, medium, or hard
+		* At this point, each idea has three main items:
+			- the Idea
+			- Objective it's satisfying
+			- Effort Required / Difficulty in completion
 	+ #4: Building a Consensus
-		* 
+		* By consensus, the team picks what they will work on
+	+ #5: Clear Spec and Clear Measurements of Success
+		* Spec out the items to be completed and who was responsible for it
+		* Spec out the metrics to track to measure it
+		* Take a picture of the whiteboard, erase it, and then get to work
+	+ #6: Working During the Development Cycle
+		* People should know what their responsibilities are from #5 - their focus should be on that
+		* Last few days of cycle, test items to make sure the features work
 
 
 ## Links to Explore
 
 ### Building a Product
 
-
+- [Product Frameworks](https://www.product-frameworks.com/index.html)
+	+ This looks like the holy grail of all product framework pages. There are a ton of different frameworks here worth exploring.
 - GV Design Sprints
 	+ [The Ultimate (and Free) Tool for Facilitating Design Sprints](https://www.dtelepathy.com/blog/design/the-ultimate-and-free-tool-for-facilitating-design-sprints?rlid=24155)
 
