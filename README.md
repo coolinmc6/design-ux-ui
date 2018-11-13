@@ -69,6 +69,8 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 - [Amazon: Working Backwards](#amazon-working-backwards)
 - [Design Telepathy: The Complete Guide to the UX Product Design Process](https://github.com/coolinmc6/design-ux-ui#design-telepathys-product-design-process)
+- [Facebook: The Three Questions Facebook Uses To Guide Their Product Development](#facebook-the-three-questions-facebook-uses-to-guide-their-product-development)
+- [Facebook: Design the Beginning](#facebook-design-the-beginning)
 - [Michael Siebel: Product Development Cycle Fundamentals](https://github.com/coolinmc6/design-ux-ui#michael-siebel-product-development-cycle-fundamentals)
 
 [back to top](#main-table-of-contents)
@@ -224,6 +226,8 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	+ what evidence is there, qualitative or quantitative, that this is a problem worth solving?
 - **Question #3: How will we know if we've solved this problem?**
 	+ set measurable goals, metrics, and milestones before you launch
+
+[back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
 
 ### Facebook: Design the Beginning
 
