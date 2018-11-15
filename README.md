@@ -121,7 +121,27 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 ### Basecamp: How We Structure Our Work and Teams at Basecamp
 
 - Source: [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae)
-- 
+- Basecamp works in 6-week cycles with a one or two-week period without scheduled projects where people can roam independently, fix stuff, and pick up pet projects.
+- They have **Big Batch** and **Small Batch** projects
+	- Big Batch projects are big features or other items that will take up the full six weeks
+	- Small Batch projects are smaller things, tweaks and minor adjustments that could be a day to two weeks
+- Basecamp will typically take on 1 or 2 Big Batch projects and/or 4 to 8 Small Batch projects in a six-week cycle
+- They think that most things can be hammered down to just six weeks - if you think it's "too big", work hard to narrow it down to the best 6-week version possible
+	+ You aren't looking for what it **can** be, but what does it **need** to be
+- Every Big Batch project is assigned a team (they have multiple teams so each team would get a Big Batch project)
+- Small Batch projects are typically all done by one team
+- They use teams of three and teams are assembled ad-hoc based on what they want to work on
+- They don't have Product Managers - designers on the team lead the project but work very closely with the programmers
+- They don't track time - the scope might change as the project progresses but the deadline doesn't move
+- New product ideas are pitched via a document sent around to the team. The pitch document ([example pitch](https://public.3.basecamp.com/p/22KB2DCxpEQLZow8Vc2iJhEq)) format seems pretty open-ended. It has a description of the project, the problem it's fixing, some illustrations showing the problem and solution, etc.
+- They use pitch documents instead of in-person pitches
+	+ The pitch-person is effectively completely uninterrupted; they can pitch their idea however they want, exactly as they want
+	+ Writing forces you to think things out more
+	+ People can read / digest the pitch on their own time
+	+ They post it to Basecamp as a message and then people can post messages and follow-up questions
+- The CEO, CTO and Chief Strategist pick the projects that they work on but everything is open to debate.
+- Their decisions depend on a number of different variables
+- Once they define the work that will be completed and everything is grouped into Big Batch and Small Batch projects, they have a cycle announcement ([example here](https://public.3.basecamp.com/p/yCe87HJ5EX1Nx48N3R6fhfHX))
 
 ### Design Telepathy's Product Design Process
 
