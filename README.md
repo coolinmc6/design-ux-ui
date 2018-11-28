@@ -263,7 +263,9 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - great article, worth reading again
 - when designing a product, it's easy to start at the middle where the main character already **knows about** your product.
 - we always want to just assume that people will see straight through to the potential of this new product/feature/etc. and just "get it"
-- "Nobody cares about the thing you’ve designed, unless you can get them past the beginning."
+
+> "Nobody cares about the thing you’ve designed, unless you can get them past the beginning."
+
 - The "beginning" is how you introduce something new to a person and **how** you will get them to understand its value and actually use it every day/week/whatever
 - Here are some of the questions you should answer BEFORE you start building it:
 	- Where and how will people first hear about your product or feature?
