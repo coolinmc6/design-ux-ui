@@ -144,6 +144,8 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 - Their decisions depend on a number of different variables
 - Once they define the work that will be completed and everything is grouped into Big Batch and Small Batch projects, they have a cycle announcement ([example here](https://public.3.basecamp.com/p/yCe87HJ5EX1Nx48N3R6fhfHX))
 
+[back to top](#main-table-of-contents) | [Product Table of Contents](#product-table-of-contents)
+
 ### Design Telepathy's Product Design Process
 
 - Source: [The Complete Guide to the UX Product Design Process](https://www.dtelepathy.com/blog/design/the-complete-product-design-process)
