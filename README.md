@@ -68,6 +68,7 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 ### Product Table of Contents
 
 - [Amazon: Working Backwards](#amazon-working-backwards)
+- [Basecamp: How We Structure Our Work and Teams at Basecamp](https://github.com/coolinmc6/design-ux-ui#basecamp-how-we-structure-our-work-and-teams-at-basecamp)
 - [Design Telepathy: The Complete Guide to the UX Product Design Process](https://github.com/coolinmc6/design-ux-ui#design-telepathys-product-design-process)
 - [Facebook: The Three Questions Facebook Uses To Guide Their Product Development](#facebook-the-three-questions-facebook-uses-to-guide-their-product-development)
 - [Facebook: Design the Beginning](#facebook-design-the-beginning)
