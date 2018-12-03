@@ -1,4 +1,25 @@
-# README
+<table>
+	<thead>
+		<tr>
+			<th colspan="4" style="text-align: center;"><strong>Subjects of Study</strong></th>
+		</tr>
+		<tr>
+			<td colspan="4">The links below are to the parent GitHub repos of completed courses, resources, my own notes, links to articles, etc. about the topics shown below. They are designed to be my "go-to" place for teaching myself the given subject.</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><strong><a href="https://github.com/coolinmc6/analytics">Analytics</a></strong></td>
+			<td><a href="https://github.com/coolinmc6/CS-concepts">Computer Science</a></td>
+			<td><a href="https://github.com/coolinmc6/design-ux-ui#product-design--development">Product Development</a></td>
+			<td><em><a href="https://github.com/coolinmc6/design-ux-ui">UX / UI Design</a></em></td>
+		</tr>	
+	</tbody>
+</table>
+
+<a name="top"></a>
+
+# UX / UI Design
 
 These are my notes on UX (user experience) Research and Design courses, articles, books, and other resources related to UX. It is also a repository for research on Product Design and Development, primarily focused on understanding the various product frameworks of building great products. Here are the main areas of this repo:
 
