@@ -492,10 +492,15 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 				+ Launch 3 revenue-specific experiments to learn what drives revenue growth
 				+ Finalize PRD (Product Requirements Doc) for Blogger Ad Network, secure eng allocation to build in Q1
 			- Objective: Improve Blogger's Reputation
+- [The Guide to Company Objectives and Key Results (OKRs)](https://7geese.com/company-okrs/)
 - [How to Write Objective and Key results - Practical Examples](https://medium.com/happierco-blog/how-to-write-objective-and-key-results-practical-examples-dc28e36db0d9)
 - [Beginner's Guide to OKR](https://felipecastro.com/en/okr/what-is-okr/)
 - [Steps to successfully set up goals with OKR](https://medium.com/happierco-blog/steps-to-successfully-setup-okr-cd0251505dbb)
 - [The Art of the OKR](http://eleganthack.com/the-art-of-the-okr/)
+- [https://medium.com/startup-tools/okrs-5afdc298bc28](https://medium.com/startup-tools/okrs-5afdc298bc28)
+- OKR Examples:
+	+ [http://okrexamples.co/company-okr-examples](http://okrexamples.co/company-okr-examples)
+	+ [https://www.atiim.com/okr-goals-examples/](https://www.atiim.com/okr-goals-examples/)
 - Personal OKR's
 	- [Personal OKR's](http://eleganthack.com/personal-okrs/)
 
