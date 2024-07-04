@@ -454,7 +454,6 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 	+ [Product Development Cycle Fundamentals](http://www.michaelseibel.com/blog/product-development-cycle-fundamentals)
 
 	
-
 ### OKR's
 
 **Links:**
@@ -510,7 +509,9 @@ Courses are based on the EdX Micro Masters program [User Experience (UX) Researc
 
 - [How to Choose a User Research Method](https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84)
 - [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)
-	
+- [Comprehensive guide for UX Researhcers](https://www.hubble.team/guide/guide-for-ux-researchers)
+- [Guide ot Usability Testing Plans](https://www.hubble.team/guide/guide-to-usability-test-plans)
+- [Creating a successful UX Research Plan](https://www.hubble.team/guide/creating-a-ux-research-plan)
 
 ## Questions
 
